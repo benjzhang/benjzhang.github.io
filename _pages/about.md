@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate in Computational Science and Engineering at [MIT](https://mit.edu). 
+Hello! I am a Ph.D. candidate in Computational Science and Engineering at [MIT](https://mit.edu). My research lies at the intersection of computational statistics and computational dynamics. I enjoy studying how these two fields interact with and complement each other towards the goals of predictive modeling and uncertainty quantification. 
 
 I received my Master's degree in Aeronautics & Astronautics from MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics from UC Berkeley in 2015. 
 
