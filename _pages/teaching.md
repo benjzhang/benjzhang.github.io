@@ -23,7 +23,7 @@ author_profile: true
 
 ## Previously at UC Berkeley
 ### Math 1B -- Calculus 
-* Undergraduate student instructor, Spring 2015
+* Undergraduate student instructor: Spring 2015
 * Second semester Freshman calculus covering integration, infinte series, differential equations
 
 
