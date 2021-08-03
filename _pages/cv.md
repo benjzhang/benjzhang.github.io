@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Computational Science and Engineering, MIT, 2022 (expected)
+* S.M. Aeronautics and Astronautics, MIT, 2017
+* B.S. Engineering Physics, UC Berkeley, 2015
+* B.A. Applied Mathematics, UC Berkeley, 2015 (Highest Honors)
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2017: Research Intern
+  * United Technologies Research Center (now Raytheon), Berkeley, CA 
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -26,16 +29,16 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+   -->
 Skills
 ======
-* Skill 1
+<!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ -->
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer...

@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate in [Center for Computational Science and Engineering](https://ccse.mit.edu) at MIT. My research lies at the intersection of computational statistics and computational dynamics. I enjoy studying how these two fields interact with and complement each other towards the goals of predictive modeling and uncertainty quantification. My interest interests include rare event simulation for dynamical systems and sampling methods for Bayesian computation. My advsior is Youssef Marzouk who leads the [Uncertainty Quantification group](https://uqgroup.mit.edu)
+Hello! I am a Ph.D. candidate at the [Center for Computational Science and Engineering](https://ccse.mit.edu) at MIT. My research lies at the intersection of computational statistics and computational dynamics. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. My interest interests include rare event simulation for dynamical systems and sampling methods for Bayesian computation. My advisor is Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu)
 
-I received my Master's degree in Aeronautics & Astronautics from MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics from UC Berkeley in 2015. 
+I earned my Master's degree in Aeronautics & Astronautics from MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics from UC Berkeley in 2015. 
 
 
 
