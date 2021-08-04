@@ -29,6 +29,8 @@ author_profile: true
 
 * *Rare event simulation in nonlinear dynamical systems via the Koopman operator.* International Congress on Industrial and Applied Mathematics, Valencia, Spain, 2019.
 
+* *A probabilistic analysis and rare event study of a dynamical queue for modeling human operators.* SIAM Conference on Uncertainty Quantification, Garden Grove, CA, 2018. 
+
 * *Rare event simulation of a rotorcraft system.* AIAA Scitech Forum Non-deterministic Approaches Conference, Kissimmee, FL, 2018.
 
 ## Minisymposia organized
