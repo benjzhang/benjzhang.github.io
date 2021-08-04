@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+
+
 {% include base_path %}
 
 ## Preprints and in preparation
@@ -33,6 +35,9 @@ author_profile: true
 
 * **B. Zhang**. "A coupling approach to rare event simulation via dynamic importance sampling." SM Thesis, Massachusetts Institute of Technology, 2017. [Link](https://dspace.mit.edu/handle/1721.1/112384)
 
+
+
+[My Google Scholar page](https://scholar.google.com/citations?user=0F864EMAAAAJ&hl=en)
 
 
 <!-- {% for post in site.publications reversed %}
