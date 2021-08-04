@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a Ph.D. candidate at the [Center for Computational Science and Engineering](https://ccse.mit.edu) at MIT. My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. My advisor is Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu).
 
-I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. 
+I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems.  
 
 
 
