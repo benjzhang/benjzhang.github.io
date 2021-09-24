@@ -40,4 +40,4 @@ author_profile: true
 * SIAM Conference on Computational Science and Engineering, Spokane, WA, 2019. *Advances in Rare Event Simulation for Complex Dynamical Systems* (8 talks). 
 
 
-For a complete list of talks, [see my CV](https://benjzhang.github.io/CV).
+For a complete list of talks, [see my CV](https://benjzhang.github.io/cv).
