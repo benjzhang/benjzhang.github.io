@@ -14,11 +14,13 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints and in preparation
+* **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." [arXiv:2110.09229](https://arxiv.org/abs/2110.09229)
+
 * **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." [arXiv:2101.07330](https://arxiv.org/abs/2101.07330)
 
-* **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." In preparation.
+* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport maps induce Riemannian manifold Langevin dynamics." In preparation. 
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation.
 
