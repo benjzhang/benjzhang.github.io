@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate at the [Center for Computational Science and Engineering](https://ccse.mit.edu) at MIT. My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. My advisor is Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu).
+Hello! I am a PhD candidate at the [Center for Computational Science and Engineering](https://ccse.mit.edu) at [MIT](https://mit.edu). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. My advisor is Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu).
 
 I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems.  
 
+### Upcoming events
 
+**February 2022**: Attending the [Data Assimilation - Mathematical Foundations and Applications](https://www.mfo.de/occasion/2208/www_view) workshop at the Mathematical Research Institute of Oberwolfach, Feb 20-26. 
+
+**December 2021**: I will be presenting a poster on our Sampling via Controlled SDEs work at the [ICBINB workshop at NeurIPS2021](https://i-cant-believe-its-not-better.github.io/neurips2021/)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
  -->
