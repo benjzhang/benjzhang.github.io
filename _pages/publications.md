@@ -18,14 +18,15 @@ author_profile: true
 
 * **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
 
-* **B. Zhang**, T. Sahai, and Y. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." [arXiv:2101.07330](https://arxiv.org/abs/2101.07330)
-
 * **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport maps induce Riemannian manifold Langevin dynamics." In preparation. 
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation.
 
 
 ## Journal articles
+
+* **B. Zhang**, T. Sahai, and Y. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." *Journal of Computational Physics*, Accepted, 2022. [Preprint](https://arxiv.org/abs/2101.07330)
+
 * **B. Zhang**, M. Chamanzar, and M.-R. Alam. "Suppression of epileptic seizures via Anderson localization". *Journal of The Royal Society Interface* 14.127 (2017): 20160872. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0872)
 
 ## Conference proceedings
