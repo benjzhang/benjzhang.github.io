@@ -8,17 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral associate at the [Center for Computational Science and Engineering](https://ccse.mit.edu) at [MIT](https://mit.edu). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. I defended my PhD thesis on *Efficient Sampling Methods of, by, and for Stochastic Dynamical Systems* in December 2021. My advisor is Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu).  
+I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc-Rey Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
 
-I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems.  
+<!-- My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. 
+ -->
+
+I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. 
 
 ## Recent news & upcoming events
 
-**April 2022**: I am co-organizing a minisymposium at [SIAM UQ 2022](https://www.siam.org/conferences/cm/conference/uq22) titled [Data-Driven Approaches to Rare and Extreme Events](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73425), in which I will be presenting our work on *Data-driven methods for rare event simulation in stochastic dynamical systems.*
+**September 26, 2022**: I will be presenting at [SIAM MDS 2022]() in the minisymposium on *Frontiers in Monte Carlo Methods for Physics*. My talk will be about our work on the *Transport map unadjusted Langevin algorithm*.
 
-**February 2022**: I am attending the [Data Assimilation - Mathematical Foundations and Applications](https://www.mfo.de/occasion/2208/www_view) workshop at the Mathematical Research Institute of Oberwolfach, February 20-26. 
+**September 1, 2022**: I joined the Department of Mathematics and Statistics at UMass Amherst as a postdoctoral research associate.  
 
-**December 2021**: I successfully defended my PhD thesis on December 13! 
+**April 12, 2022**: I am co-organizing a minisymposium at [SIAM UQ 2022](https://www.siam.org/conferences/cm/conference/uq22) titled [Data-Driven Approaches to Rare and Extreme Events](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73425), in which I will be presenting our work on *Data-driven methods for rare event simulation in stochastic dynamical systems.*
+
+
 
 [News archive](https://benjzhang.github.io/news).
 

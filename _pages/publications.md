@@ -16,16 +16,17 @@ author_profile: true
 ## Preprints and in preparation
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." [arXiv:2110.09229](https://arxiv.org/abs/2110.09229)
 
-* **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
-
-* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport maps induce Riemannian manifold Langevin dynamics." In preparation. 
+* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithm: analysis and connections." In preparation. 
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation.
 
 
 ## Journal articles
 
-* **B. Zhang**, T. Sahai, and Y. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." *Journal of Computational Physics*, Accepted, 2022. [Preprint](https://arxiv.org/abs/2101.07330)
+* **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." *Statistics and Computing*, Accepted, 2022. [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
+
+
+* **B. Zhang**, T. Sahai, and Y. Marzouk.  "A Koopman framework for rare event simulation in stochastic differential equations." *Journal of Computational Physics* 456 (2022): 111025. [Link](https://www.sciencedirect.com/science/article/pii/S0021999122000870), [arXiv:2101.07330](https://arxiv.org/abs/2101.07330)
 
 * **B. Zhang**, M. Chamanzar, and M.-R. Alam. "Suppression of epileptic seizures via Anderson localization". *Journal of The Royal Society Interface* 14.127 (2017): 20160872. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0872)
 
@@ -36,6 +37,9 @@ author_profile: true
 * T. Sahai, **B. Zhang**, Y. Marzouk, Q. Long. "Scalable Inference for Rare Events: Computational Methods for Estimating Probability of Tail Events." United Technologies Research Center, East Hartford, CT, 2019. [Link](https://apps.dtic.mil/sti/citations/AD1090887)
 
 ## Theses
+
+* **B. Zhang**. "Efficient Sampling Methods of, by, and for Stochastic Dynamical Systems." PhD Thesis, Massachusetts Institute of Technology, 2022. [Link](https://dspace.mit.edu/handle/1721.1/143353)
+
 
 * **B. Zhang**. "A coupling approach to rare event simulation via dynamic importance sampling." SM Thesis, Massachusetts Institute of Technology, 2017. [Link](https://dspace.mit.edu/handle/1721.1/112384)
 
