@@ -14,7 +14,7 @@ author_profile: true
 {% include base_path %}
 
 ## Submitted papers
-* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithm: analysis and connections." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
+* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithms." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." [arXiv:2110.09229](https://arxiv.org/abs/2110.09229)
 
