@@ -13,17 +13,17 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints and in preparation
+## Submitted papers
+* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithm: analysis and connections." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
+
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." [arXiv:2110.09229](https://arxiv.org/abs/2110.09229)
 
-* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithm: analysis and connections." In preparation. 
 
-* **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation.
+<!-- * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation. -->
 
 
 ## Journal articles
-
-* **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." *Statistics and Computing*, Accepted, 2022. [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
+* **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." *Statistics and Computing*, 32(5), 78, 2022. [Link](https://link.springer.com/article/10.1007/s11222-022-10147-6) [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
 
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk.  "A Koopman framework for rare event simulation in stochastic differential equations." *Journal of Computational Physics* 456 (2022): 111025. [Link](https://www.sciencedirect.com/science/article/pii/S0021999122000870), [arXiv:2101.07330](https://arxiv.org/abs/2101.07330)
@@ -31,6 +31,8 @@ author_profile: true
 * **B. Zhang**, M. Chamanzar, and M.-R. Alam. "Suppression of epileptic seizures via Anderson localization". *Journal of The Royal Society Interface* 14.127 (2017): 20160872. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0872)
 
 ## Conference proceedings
+* **B. Zhang**, T. Sahai, Y. Marzouk. "Sampling via Controlled Stochastic Dynamical Systems." *I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.* 2021. [Link](https://openreview.net/forum?id=dHruzYDH719)
+
 * **B. Zhang**, Y. Marzouk, B.-Y. Min, and T. Sahai. "Rare event simulation of a rotorcraft system." *2018 AIAA Non-Deterministic Approaches Conference.* 2018. [Link](https://arc.aiaa.org/doi/10.2514/6.2018-1181)
 
 ## Technical reports
