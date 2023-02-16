@@ -31,7 +31,7 @@ author_profile: true
 * **B. Zhang**, M. Chamanzar, and M.-R. Alam. "Suppression of epileptic seizures via Anderson localization". *Journal of The Royal Society Interface* 14.127 (2017): 20160872. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0872)
 
 ## Conference proceedings
-* **B. Zhang**, T. Sahai, Y. Marzouk. "Sampling via Controlled Stochastic Dynamical Systems." *I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.* 2021. [Link](https://openreview.net/forum?id=dHruzYDH719)
+* **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via Controlled Stochastic Dynamical Systems." *I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.* 2021. [Link](https://openreview.net/forum?id=dHruzYDH719)
 
 * **B. Zhang**, Y. Marzouk, B.-Y. Min, and T. Sahai. "Rare event simulation of a rotorcraft system." *2018 AIAA Non-Deterministic Approaches Conference.* 2018. [Link](https://arc.aiaa.org/doi/10.2514/6.2018-1181)
 
