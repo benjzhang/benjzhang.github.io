@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## 2023
-**May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will present a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
+**May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
-**April**: Announced exciting new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single mean-field games framework. 
+**April**: Excited to announce new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single unifying mean-field games framework. 
 
-**February**: I am the creator and organizer of the [Learning Learning](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations. 
+**February**: I am the creator and organizer of the [Learning *Learning*](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations. 
 
 Announced  new preprint titled [Transport map unadjusted Langevin algorithms](https://arxiv.org/abs/2302.07227). This joint work with Youssef Marzouk and Konstantinos Spiliopoulos. We show that Langevin algorithms applied to target distributions that are preconditioned with a normalizing transport map can accelerate sampling and are related to reversible perturbations of Langevin dynamics. 
 

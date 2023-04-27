@@ -13,13 +13,13 @@ I am a postdoctoral research associate in the [Department of Mathematics and Sta
 <!-- My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. 
  -->
 
-I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was Youssef Marzouk who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. 
+I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. 
 
 ## Recent news & upcoming events
 
-**May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will present a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
+**May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
-**April**: Announced exciting new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single mean-field games framework. 
+**April**: Excited to announce our new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single unifying mean-field games framework. 
 
 **February**: I am the creator and organizer of the [Learning Learning](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations. 
 
