@@ -13,7 +13,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Submitted papers
+## Preprints and submitted papers
+* **B. Zhang** and M. Katsoulakis. "A mean-field games laboratory for generative modeling." [https://arxiv.org/abs/2304.13534]
+
 * **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithms." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
 
 * **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." [arXiv:2110.09229](https://arxiv.org/abs/2110.09229)
@@ -35,8 +37,6 @@ author_profile: true
 
 * **B. Zhang**, Y. Marzouk, B.-Y. Min, and T. Sahai. "Rare event simulation of a rotorcraft system." *2018 AIAA Non-Deterministic Approaches Conference.* 2018. [Link](https://arc.aiaa.org/doi/10.2514/6.2018-1181)
 
-## Technical reports
-* T. Sahai, **B. Zhang**, Y. Marzouk, Q. Long. "Scalable Inference for Rare Events: Computational Methods for Estimating Probability of Tail Events." United Technologies Research Center, East Hartford, CT, 2019. [Link](https://apps.dtic.mil/sti/citations/AD1090887)
 
 ## Theses
 

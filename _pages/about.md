@@ -17,11 +17,11 @@ I earned my PhD in Computational Science and Engineering from MIT in 2022. My ad
 
 ## Recent news & upcoming events
 
-**September 26, 2022**: I will be presenting at [SIAM MDS 2022]() in the minisymposium on *Frontiers in Monte Carlo Methods for Physics*. My talk will be about our work on the *Transport map unadjusted Langevin algorithm*.
+**May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will present a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
-**September 1, 2022**: I joined the Department of Mathematics and Statistics at UMass Amherst as a postdoctoral research associate.  
+**April**: Announced exciting new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single mean-field games framework. 
 
-**April 12, 2022**: I am co-organizing a minisymposium at [SIAM UQ 2022](https://www.siam.org/conferences/cm/conference/uq22) titled [Data-Driven Approaches to Rare and Extreme Events](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73425), in which I will be presenting our work on *Data-driven methods for rare event simulation in stochastic dynamical systems.*
+**February**: I am the creator and organizer of the [Learning Learning](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations. 
 
 
 
