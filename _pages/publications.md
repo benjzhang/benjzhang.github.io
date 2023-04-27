@@ -14,7 +14,7 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints and submitted papers
-* **B. Zhang** and M. Katsoulakis. "A mean-field games laboratory for generative modeling." [https://arxiv.org/abs/2304.13534]
+* **B. Zhang** and M. Katsoulakis. "A mean-field games laboratory for generative modeling." [arXiv:2304.13534](https://arxiv.org/abs/2304.13534)
 
 * **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithms." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
 
