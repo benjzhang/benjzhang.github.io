@@ -16,6 +16,11 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited talks
+* *A mean-field games laboratory for generative modeling.* UCLA Level Set Collective, Los Angeles, CA, June 26,2023.
+* *A mean-field games laboratory for generative modeling.* SRI International, Menlo Park, CA, June 7, 2023.
+* *What is Bayesian computation?* The What is... Graduate seminar. UMass Amherst, Amherst MA, November 21, 2022.
+* *Novel perturbations for accelerating Langevin sampling.* Applied Mathematics and Computation Seminar, UMass Amherst, Amherst, MA, October 18, 2022. 
+* *Transport map unadjusted Langevin algorithm.* Aerospace Computational Design Laboratory Seminar, Cambridge MA, April 1, 2022. 
 * *A Koopman framework for sampling in stochastic dynamical systems.* LIDS & Stats Tea Talk, Cambridge, MA, April 8, 2020. 
 * *A Koopman framework for sampling in stochastic dynamical systems.* Aerospace Computational Design Laboratory Seminar, Cambridge MA, December 6, 2019.
 * *Sampling methods for stochastic dynamical systems using Koopman eigenfunctions.* United Technologies Research Center, Berkeley, CA, September 25, 2019.
