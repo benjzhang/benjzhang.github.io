@@ -32,7 +32,7 @@ author_profile: true
 
 
 ## Other experience
-* Course developer, [*Machine Learning, Modeling, and Simulation Principles*](https://learn-xpro.mit.edu/machine-learning) for MIT xPro
+* Course developer, [*Machine Learning, Modeling, and Simulation Principles*](https://xpro.mit.edu/courses/course-v1:xPRO+MLx1/) for MIT xPro
 * Subject Design Certificate Program from the MIT Teaching + Learning Lab
 
 

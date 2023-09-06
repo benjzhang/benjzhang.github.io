@@ -10,6 +10,8 @@ redirect_from:
 
 I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc-Rey Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
 
+My current research interests include **mathematics of generative modeling**, **rare event simulation for dynamical systems**, and **sampling methods for Bayesian computation**. 
+
 <!-- My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. 
  -->
 
@@ -17,11 +19,14 @@ I earned my PhD in Computational Science and Engineering from MIT in 2022. My ad
 
 ## Recent news & upcoming events
 
+**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* in the UCLA Level Set Collective. 
+
+
 **May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
 **April**: Excited to announce our new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single unifying mean-field games framework. 
 
-**February**: I am the creator and organizer of the [Learning Learning](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations. 
+<!-- **February**: I am the creator and organizer of the [Learning Learning](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations.  -->
 
 
 

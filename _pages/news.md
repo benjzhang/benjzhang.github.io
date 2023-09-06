@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2023
 
+**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* in the UCLA Level Set Collective. 
+
 
 **May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
@@ -18,9 +20,9 @@ Announced  new preprint titled [Transport map unadjusted Langevin algorithms](ht
 
 ## 2022
 
-**September**: I will be presenting at [SIAM MDS 2022]() in the minisymposium on *Frontiers in Monte Carlo Methods for Physics*. My talk will be about our work on the *Transport map unadjusted Langevin algorithm*.
+**September**: I will be presenting at [SIAM MDS 2022](https://www.siam.org/conferences/cm/conference/mds22) in the minisymposium on *Frontiers in Monte Carlo Methods for Physics*. My talk will be about our work on the *Transport map unadjusted Langevin algorithm*.
 
-Our paper on [Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics] was accepted for publication in [Statistics and Computing](https://link.springer.com/article/10.1007/s11222-022-10147-6). 
+Our paper on [Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics](https://link.springer.com/article/10.1007/s11222-022-10147-6) was accepted for publication in *Statistics and Computing*. 
 
 I joined the Department of Mathematics and Statistics at UMass Amherst as a postdoctoral research associate. 
 
