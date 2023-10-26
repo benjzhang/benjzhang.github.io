@@ -7,7 +7,13 @@ author_profile: true
 
 ## 2023
 
-**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* in the UCLA Level Set Collective. 
+**October**: 
+I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and speaking in their [Computational and data-enabled science](http://www.math.emory.edu/site/codes/schedule/). 
+
+
+I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the [Machine Learning and Mean Field Games Seminar series](https://sites.google.com/view/mlmfgseminar/home)
+
+**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the UCLA Level Set Collective. 
 
 
 **May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.

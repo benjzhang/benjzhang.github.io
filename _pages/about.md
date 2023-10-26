@@ -19,12 +19,20 @@ I earned my PhD in Computational Science and Engineering from MIT in 2022. My ad
 
 ## Recent news & upcoming events
 
-**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* in the UCLA Level Set Collective. 
+
+
+**October**: 
+I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and speaking in their [Computational and data-enabled science](http://www.math.emory.edu/site/codes/schedule/). 
+
+
+I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the [Machine Learning and Mean Field Games Seminar series](https://sites.google.com/view/mlmfgseminar/home)
+
+**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the UCLA Level Set Collective. 
 
 
 **May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
-**April**: Excited to announce our new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single unifying mean-field games framework. 
+<!-- **April**: Excited to announce our new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single unifying mean-field games framework.  -->
 
 <!-- **February**: I am the creator and organizer of the [Learning Learning](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar). This is a seminar for students and postdocs to present their in-progress research, and practice giving research presentations.  -->
 
