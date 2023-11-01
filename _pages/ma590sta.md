@@ -8,13 +8,9 @@ author_profile: false
 <!-- {% include base_path %}
  -->
 ### Instructors and contact
-Benjamin Zhang
-LGRT 1632
-bjzhang@umass.edu
+Benjamin Zhang, LGRT 1632, bjzhang@umass.edu
 
-Ziyu Chen
-LGRT 1630
-ziyuchen@umass.edu
+[Ziyu Chen](https://sites.google.com/view/ziyu-chen), LGRT 1630, ziyuchen@umass.edu
 
 
 ## Course description
@@ -33,6 +29,7 @@ Your grade will be determined by **8** problems sets and a **final project**.
 - Project proposal (due in the middle of the semester): 10 points
 - Project report: 20 points
 - Project presentation 10 points
+
 Students can earn up to 10 points in each homework assignment, with a cap of 60 points over all assignments. A list of suggested projects as well as guidelines for the proposal, final report, and presentation will be released early in the semester. Students are also encouraged to choose their own project with approval from the instructors.
 
 
