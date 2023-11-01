@@ -26,7 +26,7 @@ This class is intended for advanced undergraduate and early graduate students. W
 ## Textbook 
 No required textbook. We will assign selected readings from *Probabilistic Machine Learning* by Murphy and *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman. 
 
-## Homework & Graading
+## Homework & Grading (subject to change!)
 Your grade will be determined by **8** problems sets and a **final project**. 
 - Homework: 60 points
 - Project proposal (due in the middle of the semester): 10 points
