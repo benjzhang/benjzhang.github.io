@@ -7,7 +7,10 @@ author_profile: false
 
 <!-- {% include base_path %}
  -->
-### Instructors and contact
+## Spring 2024
+MWF 1:25-2:15PM in LGRT 141
+
+## Instructors and contact
 Benjamin Zhang, LGRT 1632, bjzhang@umass.edu
 
 [Ziyu Chen](https://sites.google.com/view/ziyu-chen), LGRT 1630, ziyuchen@umass.edu
@@ -35,12 +38,12 @@ Students can earn up to 10 points in each homework assignment, with a cap of 60 
 
 ## Tentative list of lectures (subject to change!)
 
-## Part 0: Introduction and linear algebra review
+### Part 0: Introduction and linear algebra review
 - Tour of machine learning topics; supervised & unsupervised learning, regression, classification, dimension reduction
 - Vector and matrix norms, eigenvalue decompositions
 - Singular value decomposition, Moore-Penrose pseudoinverse, Eckhart-Young theorem, low-rank approximations
 
-## Part 1: Linear methods
+### Part 1: Linear methods
 
 - Linear least-squares regression; normal equations, applications of SVD, conditioning
 - Maximum likelihood estimation and information theory; entropy, Kullback-Leibler divergence. Least-squares regression from an MLE perspective. 
@@ -54,7 +57,7 @@ Students can earn up to 10 points in each homework assignment, with a cap of 60 
 
 
 
-## Part 2: Kernel methods
+### Part 2: Kernel methods
 
 - Introduction to kernels; nonparametric regression, the kernel trick, introduction to reproducing kernel Hilbert spaces (RKHS), Mercer's theorem
 - Regularization from a RKHS perspective
@@ -64,7 +67,7 @@ Students can earn up to 10 points in each homework assignment, with a cap of 60 
 - Support vector machines; perceptrons, separating hyperplanes, KKT conditions, kernels for classification
 - Regularization of SVMs from a RKHS perspective
 
-## Part 3: Deep learning methods
+### Part 3: Deep learning methods
 
  - Introduction to neural networks; multilayer perceptrons, neural network architecture, activation functions
 - Applying and training neural networks I; regression, classification, stochastic gradient descent, backpropagation
@@ -75,7 +78,7 @@ Students can earn up to 10 points in each homework assignment, with a cap of 60 
 
 \item \textbf{Lecture 23:} Theory of deep learning III; implicit regularization, double descent phenomenon -->
 
-## Part 4: Student presentations
+### Part 4: Student presentations
 
 
 

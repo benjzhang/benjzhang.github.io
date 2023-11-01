@@ -7,6 +7,11 @@ author_profile: true
 
 <!-- {% include base_path %}
  -->
+## At UMass Amherst
+### MATH 590STA -- Introduction to Mathematical Machine Learning
+* Co-instructor and co-developer: [Spring 2024](https://benjzhang.github.io/ma590sta/)
+* Designed and co-taught course for advanced undergraduate and early graduate students
+
 ## At MIT
 ### 16.09 -- Statistics and Probability
 * Teaching assistant: Spring 2019
@@ -25,7 +30,7 @@ author_profile: true
 * Lead small study groups for first year URM students. Facilitated by the MIT Office of Minority Education.
 * Subject facilitated: 18.03 Differential Equations
 
-## Previously at UC Berkeley
+## At UC Berkeley
 ### Math 1B -- Calculus 
 * Undergraduate student instructor: Spring 2015
 * Second semester Freshman calculus covering integration, infinite series, and differential equations
