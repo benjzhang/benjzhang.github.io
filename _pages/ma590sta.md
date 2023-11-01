@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "MATH 590STA: Introduction to Mathematical Machine Learning"
-permalink: /MA590STA/
+permalink: /ma590sta/
 author_profile: false
 ---
 
