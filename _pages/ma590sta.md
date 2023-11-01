@@ -70,8 +70,8 @@ Students can earn up to 10 points in each homework assignment, with a cap of 60 
 - Applying and training neural networks I; regression, classification, stochastic gradient descent, backpropagation
 - Applying and training neural networks II; regularization, overfitting, model selection      
 - Theory of deep learning; universal approximation theorems, connections to kernel methods, implicit regularization, double descent phenomenon
-<!-- 
-\item \textbf{Lecture 22:} Theory of deep learning II; connections to kernel methods, neural tangent kernel
+
+<!-- \item \textbf{Lecture 22:} Theory of deep learning II; connections to kernel methods, neural tangent kernel
 
 \item \textbf{Lecture 23:} Theory of deep learning III; implicit regularization, double descent phenomenon -->
 
