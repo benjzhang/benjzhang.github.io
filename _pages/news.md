@@ -8,7 +8,7 @@ author_profile: true
 ## 2023
 
 **October**: 
-I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and speaking in their [Computational and data-enabled science](http://www.math.emory.edu/site/codes/schedule/). 
+I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and speaking in their [Computational and data-enabled science seminar series](http://www.math.emory.edu/site/codes/schedule/). 
 
 
 I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the [Machine Learning and Mean Field Games Seminar series](https://sites.google.com/view/mlmfgseminar/home)
