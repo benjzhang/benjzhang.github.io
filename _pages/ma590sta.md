@@ -1,14 +1,89 @@
 ---
 layout: archive
-title: "MATH 590STA"
+title: "MATH 590STA: Introduction to Mathematical Machine Learning"
 permalink: /ma590sta/
 author_profile: false
 ---
 
 <!-- {% include base_path %}
  -->
-## Introduction to Mathematical Machine Learning
-# Spring 2024
+### Instructors and contact
+Benjamin Zhang
+LGRT 1632
+bjzhang@umass.edu
+
+Ziyu Chen
+LGRT 1630
+ziyuchen@umass.edu
+
+
+## Course description
+
+This course will provide an introduction to machine learning from a mathematical perspective. The primary objective of this course is to cultivate in students a sense of mathematical curiosity and equip them with the skills to ask mathematical questions when studying machine learning algorithms. Classical supervised learning methods will be presented and studied using the tools from information theory, statistical learning theory, optimization, and basic functional analysis. The course will cover three categories of machine learning approaches: linear methods, kernel-based methods, and deep learning methods, each applied to regression, classification, and dimension reduction. Coding exercises will be an essential part of the course to empirically study  strengths and weakness of methods. 
+
+## Prerequisites
+This class is intended for advanced undergraduate and early graduate students. We expect a strong command of probability, multivariable calculus, and linear algebra at the level of STAT 515, MATH 233, and MATH 545, or permission of instructor. Basic programming experience is assumed. *Recommended*: Familiarity of numerical methods at the level of MATH 551. Some recommended references will be posted before the beginning of the semester. 
+
+## Textbook 
+No required textbook. We will assign selected readings from *Probabilistic Machine Learning* by Murphy and *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman. 
+
+## Homework & Graading
+Your grade will be determined by **8** problems sets and a **final project**. 
+- Homework: 60 points
+- Project proposal (due in the middle of the semester): 10 points
+- Project report: 20 points
+- Project presentation 10 points
+Students can earn up to 10 points in each homework assignment, with a cap of 60 points over all assignments. A list of suggested projects as well as guidelines for the proposal, final report, and presentation will be released early in the semester. Students are also encouraged to choose their own project with approval from the instructors.
+
+
+## Tentative list of lectures (subject to change!)
+
+## Part 0: Introduction and linear algebra review
+- Tour of machine learning topics; supervised & unsupervised learning, regression, classification, dimension reduction
+- Vector and matrix norms, eigenvalue decompositions
+- Singular value decomposition, Moore-Penrose pseudoinverse, Eckhart-Young theorem, low-rank approximations
+
+## Part 1: Linear methods
+
+- Linear least-squares regression; normal equations, applications of SVD, conditioning
+- Maximum likelihood estimation and information theory; entropy, Kullback-Leibler divergence. Least-squares regression from an MLE perspective. 
+- Regularization; ridge and LASSO regression, compressed sensing, sparsity
+- Bayesian inference; *maximum a posteriori* estimators; regularization from a Bayesian perspective; Gaussian and Laplace priors. 
+- Model selection; overfitting, generalization
+- Principal components analysis; linear dimension reduction, applications to least-squares regression
+- Logistic regression; maximum likelihood estimation for linear classifiers
+- Linear discriminant analysis; Bayesian approaches to classification
+     
+
+
+
+## Part 2: Kernel methods
+
+- Introduction to kernels; nonparametric regression, the kernel trick, introduction to reproducing kernel Hilbert spaces (RKHS), Mercer's theorem
+- Regularization from a RKHS perspective
+- Nonlinear dimension reduction; kernel PCA
+- Gaussian processes; Karhunen-Lo\`eve expansion, exponential and Ornstein-Uhlenbeck kernels
+- Gaussian process regression, kernel methods for large datasets, random features
+- Support vector machines; perceptrons, separating hyperplanes, KKT conditions, kernels for classification
+- Regularization of SVMs from a RKHS perspective
+
+## Part 3: Deep learning methods
+
+ - Introduction to neural networks; multilayer perceptrons, neural network architecture, activation functions
+- Applying and training neural networks I; regression, classification, stochastic gradient descent, backpropagation
+- Applying and training neural networks II; regularization, overfitting, model selection      
+- Theory of deep learning I; universal approximation theorems
+
+<!-- \item \textbf{Lecture 22:} Theory of deep learning II; connections to kernel methods, neural tangent kernel
+
+\item \textbf{Lecture 23:} Theory of deep learning III; implicit regularization, double descent phenomenon -->
+
+## Part 4: Student presentations
+
+
+
+
+
 
 
 
