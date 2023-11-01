@@ -62,7 +62,7 @@ Students can earn up to 10 points in each homework assignment, with a cap of 60 
 - Introduction to kernels; nonparametric regression, the kernel trick, introduction to reproducing kernel Hilbert spaces (RKHS), Mercer's theorem
 - Regularization from a RKHS perspective
 - Nonlinear dimension reduction; kernel PCA
-- Gaussian processes; Karhunen-Lo[`e]ve expansion, exponential and Ornstein-Uhlenbeck kernels
+- Gaussian processes; Karhunen-Loève expansion, exponential and Ornstein-Uhlenbeck kernels
 - Gaussian process regression, kernel methods for large datasets, random features
 - Support vector machines; perceptrons, separating hyperplanes, KKT conditions, kernels for classification
 - Regularization of SVMs from a RKHS perspective
