@@ -16,7 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited talks
-* *A mean-field games laboratory for generative modeling.* UCLA Level Set Collective, Los Angeles, CA, June 26,2023.
+* *A mean-field games laboratory for generative modeling.* Computational and Data-enabled Science Seminar, Emory University, Atlanta, GA, October 26, 2023.
+* *A mean-field games laboratory for generative modeling.* [Mean Field Games and Machine Learning Seminar](https://sites.google.com/view/mlmfgseminar/home), October 24, 2023. [Recording](https://www.youtube.com/watch?v=OV5rmgnqLa4)
+* *A mean-field games laboratory for generative modeling.* UCLA Level Set Collective, Los Angeles, CA, June 26, 2023.
 * *A mean-field games laboratory for generative modeling.* SRI International, Menlo Park, CA, June 7, 2023.
 * *What is Bayesian computation?* The What is... Graduate seminar. UMass Amherst, Amherst MA, November 21, 2022.
 * *Novel perturbations for accelerating Langevin sampling.* Applied Mathematics and Computation Seminar, UMass Amherst, Amherst, MA, October 18, 2022. 
