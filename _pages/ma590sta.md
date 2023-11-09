@@ -7,6 +7,11 @@ author_profile: false
 
 <!-- {% include base_path %}
  -->
+ 
+ 
+ <span style="color:red"> As of November 8, enrollment for the class if full. However, if you are still interested in signing up for the course, please email us at bjzhang@umass.edu and ziyuchen@umass.edu.   </span>.
+
+ 
 ## Spring 2024
 MWF 1:25-2:15PM in LGRT 141
 
@@ -14,6 +19,7 @@ MWF 1:25-2:15PM in LGRT 141
 Benjamin Zhang, LGRT 1632, bjzhang@umass.edu
 
 [Ziyu Chen](https://sites.google.com/view/ziyu-chen), LGRT 1630, ziyuchen@umass.edu
+
 
 
 ## Course description
