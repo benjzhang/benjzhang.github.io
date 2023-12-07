@@ -19,7 +19,8 @@ I earned my PhD in Computational Science and Engineering from MIT in 2022. My ad
 
 
 ## NEW COURSE for Spring 2024: [Math 590STA Intro to Mathematical Machine Learning](https://benjzhang.github.io/ma590sta/)
-![Poster](https://benjzhang.github.io/files/ma590sta_poster.png)
+<img align="left" width="200" src="https://benjzhang.github.io/files/ma590sta_poster.png" />
+Join us for MATH 590STA, an introduction to mathematical machine learning! We will be covering classical solutions to machine learning tasks such as regression, classification, and dimension reduction from fundamental mathematical concepts. 
 
 
 ## Learning *Learning*
