@@ -18,7 +18,7 @@ My current research interests include **mathematics of generative modeling**, **
 I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. 
 
 
-## NEW COURSE: [Math 590STA Introduction to Mathematical Machine Learning](https://benjzhang.github.io/ma590sta/)
+## NEW COURSE for Spring 2024: [Math 590STA Intro to Mathematical Machine Learning](https://benjzhang.github.io/ma590sta/)
 ![Poster](https://benjzhang.github.io/files/ma590sta_poster.png)
 
 
