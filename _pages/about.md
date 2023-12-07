@@ -17,8 +17,14 @@ My current research interests include **mathematics of generative modeling**, **
 
 I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. 
 
-## Recent news & upcoming events
+## Learning *Learning*
+I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar) seminar, along with [Hyemin Gu](https://hyemingu.github.io). This is an internal seminar at UMass Amherst where graduate students and postdocs discuss latest developments in machine learning and data science through reading groups and tutorials. It is also a venue for students to present their research. Please contact us if you wish to participate in the group! 
 
+
+## Recent news & upcoming events 
+
+**November**
+I will be giving a talk at [NYU Shanghai](https://dail.shanghai.nyu.edu/events/mean-field-games-laboratory-generative-modeling) on our recent work *Mean-Field Games Laboratory for Generative Modeling.*
 
 
 **October**: 
@@ -27,10 +33,9 @@ I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and
 
 I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the [Machine Learning and Mean Field Games Seminar series](https://sites.google.com/view/mlmfgseminar/home)
 
-**June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the UCLA Level Set Collective. 
+<!-- **June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the UCLA Level Set Collective.  -->
 
 
-**May**: I will be attending the [Optimal transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/) at ICERM. I will be presenting a poster on our recent work on the *Mean-Field Games Laboratory for Generative Modeling*.
 
 <!-- **April**: Excited to announce our new preprint titled [A Mean-Field Games Laboratory for Generative Modeling](https://arxiv.org/abs/2304.13534). This joint work with Markos Katsoulakis. We show that flow and diffusion-based generative models, including normalizing flows, score-based models, and Wasserstein gradient flows can be derived from a single unifying mean-field games framework.  -->
 
