@@ -11,7 +11,7 @@ author_profile: false
  
  <span style="color:red"> ***As of 08 November 2023, enrollment for the class is full. However, if you are still interested in signing up for the course, please email us at bjzhang@umass.edu and ziyuchen@umass.edu.***  </span>
 
- <img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />
+ [<img align="right" width="400" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/files/ma590sta_poster.png)
 ## Spring 2024
 MWF 1:25-2:15PM in LGRT 141
 
