@@ -34,12 +34,16 @@ No required textbook. We will assign selected readings from *Probabilistic Machi
 
 ## Homework & Grading (subject to change!)
 Your grade will be determined by **8** problems sets and a **final project**. 
-- Homework: 60 points
+- Homework: 50 points
+- Student reflections: 10 points
 - Project proposal (due in the middle of the semester): 10 points
 - Project report: 20 points
-- Project presentation 10 points
+- Project presentation: 10 points
 
-Students can earn up to 10 points in each homework assignment, with a cap of 60 points over all assignments. A list of suggested projects as well as guidelines for the proposal, final report, and presentation will be released early in the semester. Students are also encouraged to choose their own project with approval from the instructors.
+Students can earn up to 8 points in each homework assignment, with a cap of 50 points over all assignments. A list of suggested projects as well as guidelines for the proposal, final report, and presentation will be released early in the semester. Students are also encouraged to choose their own project with approval from the instructors.
+
+This is an experimental course, meaning that feedback from the students will be valuable for future iterations of this course. Therefore, the instructors ask that students complete weekly reflections on what they learned each week and how effectively lectures and homework contribute to their learning. This will be worth 10 points through the semester. 
+
 
 
 ## Tentative list of lectures (subject to change!)

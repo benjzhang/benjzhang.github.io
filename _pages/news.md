@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2023
 
+**November**: 
+I will be giving a talk at [NYU Shanghai](https://dail.shanghai.nyu.edu/events/mean-field-games-laboratory-generative-modeling) on our recent work *Mean-Field Games Laboratory for Generative Modeling.*
+
+
 **October**: 
 I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and speaking in their [Computational and data-enabled science seminar series](http://www.math.emory.edu/site/codes/schedule/). 
 
