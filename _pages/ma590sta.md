@@ -13,7 +13,7 @@ author_profile: false
 
  [<img align="right" width="400" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/files/ma590sta_poster.png)
 ## Spring 2024
-MWF 1:25-2:15PM in LGRT 141
+MWF 1:25-2:15PM in LGRT 121
 
 ## Instructors and contact
 Benjamin Zhang, LGRT 1632, bjzhang@umass.edu
