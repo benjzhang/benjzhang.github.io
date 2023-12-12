@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc-Rey Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
+I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
 
 My current research interests include **mathematics of generative modeling**, **rare event simulation for dynamical systems**, and **sampling methods for Bayesian computation**. 
 
