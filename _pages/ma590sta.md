@@ -88,7 +88,7 @@ An individual final project is required to pass the class. A project proposal wi
 - Learning theory; model complexity, PAC learning, Vapnik–Chervonenkis dimension, Rademacher complexity, generalization
 - Reproducing kernel Hilbert spaces; Hilbert spaces, Mercer's theorem
 - Nonparametric regression;  Derivative regularization, Sobolev spaces, representer theorem
-- Gaussian processes; Karhunen-Lo\`eve expansion, Nystr\"om methods, Mercer kernels, Gaussian process regression, model selection, marginal likelihood
+- Gaussian processes; Karhunen-Loeve expansion, Nystrom methods, Mercer kernels, Gaussian process regression, model selection, marginal likelihood
 - Kernels for large datasets; Random Fourier features
 - Nonlinear dimension reduction; kernel PCA
 
