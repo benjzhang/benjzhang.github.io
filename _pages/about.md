@@ -39,6 +39,8 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 I am excited to announce our new preprint title [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162). We that score-based generative models can be fundamentally understood as the Wasserstein proximal operator of cross-entropy and we build informed models that resolve the memorization phenomenon in SGMs. This is joint work with [Siting Liu](https://sites.google.com/view/siting6ucla/home), [Wuchen Li](https://people.math.sc.edu/wuchen/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Stan Osher](https://www.math.ucla.edu/~sjo/). 
 
 
+[News archive](https://benjzhang.github.io/news).
+
 
 <!-- 
 
@@ -62,7 +64,6 @@ I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* 
 
 
 
-[News archive](https://benjzhang.github.io/news).
 
 <!--  Presenting a poster on our _Sampling via Controlled SDEs_ work at the [ICBINB workshop at NeurIPS2021](https://i-cant-believe-its-not-better.github.io/neurips2021/), December 13. 
  -->

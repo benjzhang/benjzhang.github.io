@@ -5,8 +5,7 @@ permalink: /ma590sta/
 author_profile: false
 ---
 
-<!-- {% include base_path %}
- -->
+<!-- {% include base_path %}-->
  
  
  <!-- <span style="color:red"> ***As of 08 November 2023, enrollment for the class is full. However, if you are still interested in signing up for the course, please email us at bjzhang@umass.edu and ziyuchen@umass.edu.***  </span> -->
