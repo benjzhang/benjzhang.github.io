@@ -31,6 +31,16 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent news & upcoming events 
 
+## 2024
+
+**February**: I am co-organizing a minisymposium at [SIAM UQ 2024](https://www.siam.org/conferences/cm/conference/uq24) titled [Optimal Transport for Uncertainty Quantification](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78505) with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home). I will also be presenting in the [Computational Transport](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78494) minisymposium  where I will be presenting on our recent work relating mean-field games with generative modeling. 
+
+
+I am excited to announce our new preprint title [*Wasserstein proximal operators describe score-based generative models and resolve memorization*](https://arxiv.org/abs/2402.06162). We that score-based generative models can be fundamentally understood as the Wasserstein proximal operator of cross-entropy and we build informed models that resolve the memorization phenomenon in SGMs. This is joint work with [Siting Liu](https://sites.google.com/view/siting6ucla/home), [Wuchen Li](https://people.math.sc.edu/wuchen/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Stan Osher](https://www.math.ucla.edu/~sjo/). 
+
+
+
+<!-- 
 
 **November**
 I will be giving a talk at [NYU Shanghai](https://dail.shanghai.nyu.edu/events/mean-field-games-laboratory-generative-modeling) on our recent work *Mean-Field Games Laboratory for Generative Modeling.*
@@ -40,7 +50,7 @@ I will be giving a talk at [NYU Shanghai](https://dail.shanghai.nyu.edu/events/m
 I will be visiting [Emory University](http://www.math.emory.edu/site/codes/) and speaking in their [Computational and data-enabled science seminar series](http://www.math.emory.edu/site/codes/schedule/). 
 
 
-I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the [Machine Learning and Mean Field Games Seminar series](https://sites.google.com/view/mlmfgseminar/home)
+I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the [Machine Learning and Mean Field Games Seminar series](https://sites.google.com/view/mlmfgseminar/home) -->
 
 <!-- **June**: I gave a talk on our work *Mean-Field Games Laboratory for Generative Modeling* to the UCLA Level Set Collective.  -->
 

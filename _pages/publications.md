@@ -14,6 +14,9 @@ author_profile: true
 {% include base_path %}
 
 ## Preprints and submitted papers
+
+* **B. Zhang,** S. Liu, W. Li, M. Katsoulakis, and S. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." [arXiv:2402.06162](https://arxiv.org/abs/2402.06162)
+
 * **B. Zhang** and M. Katsoulakis. "A mean-field games laboratory for generative modeling." [arXiv:2304.13534](https://arxiv.org/abs/2304.13534)
 
 * **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithms." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
