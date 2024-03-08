@@ -31,7 +31,6 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent news & upcoming events 
 
-## 2024
 
 **February**: I am co-organizing a minisymposium at [SIAM UQ 2024](https://www.siam.org/conferences/cm/conference/uq24) titled [Optimal Transport for Uncertainty Quantification](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78505) with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home). I will also be presenting in the [Computational Transport](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78494) minisymposium  where I will be presenting on our recent work relating mean-field games with generative modeling. 
 
