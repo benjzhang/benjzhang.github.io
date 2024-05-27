@@ -15,6 +15,10 @@ author_profile: true
 
 ## Preprints and submitted papers
 
+* N. Mimikos-Stamatopoulos, **B. Zhang**, and M. Katsoulakis. "Score-based generative models are provably robust." [arXiv:2405.15754](https://arxiv.org/abs/2405.15754)
+
+* J. Birrell, M. Katsoulakis, L. Rey-Bellet, **B. Zhang**, and W. Zhu. "Nonlinear denoising score matching for enhanced learning of structured distributions." [arXiv:2405.15625](https://arxiv.org/abs/2405.15625)
+
 * **B. Zhang,** S. Liu, W. Li, M. Katsoulakis, and S. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." [arXiv:2402.06162](https://arxiv.org/abs/2402.06162)
 
 * **B. Zhang** and M. Katsoulakis. "A mean-field games laboratory for generative modeling." [arXiv:2304.13534](https://arxiv.org/abs/2304.13534)

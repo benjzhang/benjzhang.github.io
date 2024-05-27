@@ -35,10 +35,15 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent news & upcoming events 
 
-**May**: Excited to announce two new preprints! In [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754), we prove SGM generalization bounds in terms of integral probability metrics using regularity theory of Hamilton-Jacobi-Bellman equations and an interesting uncertainty propagation perspective. This is joint work with [Nikiforos Mimikos-Stamatopoulos](https://math.uchicago.edu/~nmimikos/) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
+**May**: Excited to announce two new preprints! In [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754), we prove SGM generalization bounds in terms of integral probability metrics using regularity theory of Hamilton-Jacobi-Bellman equations and an novel uncertainty propagation perspective. This is joint work with [Nikiforos Mimikos-Stamatopoulos](https://math.uchicago.edu/~nmimikos/) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
 
 In [Nonlinear denoising score matching for enhanced learning of structured distributions](https://arxiv.org/abs/2405.15625), we propose SGMs with *nonlinear* forward processes, which produces structure-preserving generative models. A nonlinear implementation of denoising score-matching is developed to facilitate the use of nonlinear processes. This is joint work with [Jeremey Birrell](https://people.umass.edu/jbirrell/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Wei Zhu](https://people.math.umass.edu/~zhu/). 
+
+
+**February**:
+
+I am excited to announce our new preprint title [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162). We show that score-based generative models can be fundamentally understood as the Wasserstein proximal operator of cross-entropy and we build informed models that resolve the memorization phenomenon in SGMs. This is joint work with [Siting Liu](https://sites.google.com/view/siting6ucla/home), [Wuchen Li](https://people.math.sc.edu/wuchen/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Stan Osher](https://www.math.ucla.edu/~sjo/). 
 
 
 
