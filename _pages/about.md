@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate and lecturer in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
+I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
 
 My current research interests include **mathematics of generative modeling**, **rare event simulation for dynamical systems**, and **sampling methods for Bayesian computation**. 
 
@@ -19,10 +19,14 @@ I earned my PhD in Computational Science and Engineering from MIT in 2022. My ad
 
 
 
-## NEW COURSE for Spring 2024! [Math 590STA: Intro to Mathematical Machine Learning](https://benjzhang.github.io/ma590sta/)
+## [APMA 1930Z: Introduction to Mathematical Machine Learning (Fall 2024)](https://benjzhang.github.io/apma1930z/)
+[<img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](
+I will be co-teaching APMA 1930Z at Brown University in Fall 2024. APMA 1930Z is the second iteration of [Math 590STA, first offered at UMass Amherst in Spring 2024](https://benjzhang.github.io/ma590sta/). We cover classical solutions to machine learning tasks such as regression, classification, and dimension reduction from fundamental mathematical concepts. 
+
+<!-- ## NEW COURSE for Spring 2024! [Math 590STA: Intro to Mathematical Machine Learning](https://benjzhang.github.io/ma590sta/)
 [<img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/ma590sta/)
 Join us for MATH 590STA, an introduction to mathematical machine learning! We will be covering classical solutions to machine learning tasks such as regression, classification, and dimension reduction from fundamental mathematical concepts. 
-
+ -->
 
 
 ## Learning *Learning*
@@ -31,11 +35,11 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent news & upcoming events 
 
+**May**: Excited to announce two new preprints! In [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754), we prove SGM generalization bounds in terms of integral probability metrics using regularity theory of Hamilton-Jacobi-Bellman equations and an interesting uncertainty propagation perspective. This is joint work with [Nikiforos Mimikos-Stamatopoulos](https://math.uchicago.edu/~nmimikos/) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
-**February**: I am co-organizing a minisymposium at [SIAM UQ 2024](https://www.siam.org/conferences/cm/conference/uq24) titled [Optimal Transport for Uncertainty Quantification](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78505) with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home). I will also be presenting in the [Computational Transport](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78494) minisymposium  where I will be presenting on our recent work relating mean-field games with generative modeling. 
 
+In [Nonlinear denoising score matching for enhanced learning of structured distributions](https://arxiv.org/abs/2405.15625), we propose SGMs with *nonlinear* forward processes, which produces structure-preserving generative models. A nonlinear implementation of denoising score-matching is developed to facilitate the use of nonlinear processes. This is joint work with [Jeremey Birrell](https://people.umass.edu/jbirrell/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Wei Zhu](https://people.math.umass.edu/~zhu/). 
 
-I am excited to announce our new preprint title [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162). We that score-based generative models can be fundamentally understood as the Wasserstein proximal operator of cross-entropy and we build informed models that resolve the memorization phenomenon in SGMs. This is joint work with [Siting Liu](https://sites.google.com/view/siting6ucla/home), [Wuchen Li](https://people.math.sc.edu/wuchen/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Stan Osher](https://www.math.ucla.edu/~sjo/). 
 
 
 [News archive](https://benjzhang.github.io/news).
