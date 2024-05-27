@@ -15,42 +15,48 @@ author_profile: true
 
 ## Preprints and submitted papers
 
-* N. Mimikos-Stamatopoulos, **B. Zhang**, and M. Katsoulakis. "Score-based generative models are provably robust." [arXiv:2405.15754](https://arxiv.org/abs/2405.15754)
 
-* J. Birrell, M. Katsoulakis, L. Rey-Bellet, **B. Zhang**, and W. Zhu. "Nonlinear denoising score matching for enhanced learning of structured distributions." [arXiv:2405.15625](https://arxiv.org/abs/2405.15625)
 
-* **B. Zhang,** S. Liu, W. Li, M. Katsoulakis, and S. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." [arXiv:2402.06162](https://arxiv.org/abs/2402.06162)
+* "Score-based generative models are provably robust: an uncertainty quantification perspective," (with Nikiforos Mimikos-Stamatopoulos and Markos Katsoulakis), [arXiv:2405.15754](https://arxiv.org/abs/2405.15754).
 
-* **B. Zhang** and M. Katsoulakis. "A mean-field games laboratory for generative modeling." [arXiv:2304.13534](https://arxiv.org/abs/2304.13534)
+* "Nonlinear denoising score matching for enhanced learning of structured distributions," (with Jeremiah Birrell, Markos Katsoulakis, Luc Rey-Bellet, and Wei Zhu), [arXiv:2405.15625](https://arxiv.org/abs/2405.15625).
 
-* **B. Zhang**, K. Spiliopoulos, and Y. Marzouk. "Transport map unadjusted Langevin algorithms." [arXiv:2302.07227](https://arxiv.org/abs/2302.07227)
+* "Wasserstein proximal operators describe score-based generative models and resolve memorization," (with Siting Liu, Wuchen Li, Markos Katsoulakis, and Stanley Osher), [arXiv:2402.06162](https://arxiv.org/abs/2402.06162).
 
-* **B. Zhang**, T. Sahai, and Y. Marzouk. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator." [arXiv:2110.09229](https://arxiv.org/abs/2110.09229)
+* "A mean-field games laboratory for generative modeling," (with Markos Katsoulakis), [arXiv:2304.13534](https://arxiv.org/abs/2304.13534).
 
+* "Transport map unadjusted Langevin algorithms: learning and discretizing perturbed samplers," (with Youssef Marzouk and Konstantinos Spiliopoulos), [arXiv:2302.07227](https://arxiv.org/abs/2302.07227).
+
+* "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
 
 <!-- * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation. -->
 
 
 ## Journal articles
-* **B. Zhang**, Y. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." *Statistics and Computing*, 32(5), 78, 2022. [Link](https://link.springer.com/article/10.1007/s11222-022-10147-6) [arXiv:2108.08247](https://arxiv.org/abs/2108.08247)
+
+* "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics," (with Youssef Marzouk and Konstantinos Spiliopoulos), *Statistics and Computing*, 32(5), 78, 2022. [Link](https://link.springer.com/article/10.1007/s11222-022-10147-6) [arXiv:2108.08247](https://arxiv.org/abs/2108.08247).
+
+* "A Koopman framework for rare event simulation in stochastic differential equations," (with Tuhin Sahai and Youssef Marzouk), *Journal of Computational Physics* 456 (2022): 111025. [Link](https://www.sciencedirect.com/science/article/pii/S0021999122000870), [arXiv:2101.07330](https://arxiv.org/abs/2101.07330).
 
 
-* **B. Zhang**, T. Sahai, and Y. Marzouk.  "A Koopman framework for rare event simulation in stochastic differential equations." *Journal of Computational Physics* 456 (2022): 111025. [Link](https://www.sciencedirect.com/science/article/pii/S0021999122000870), [arXiv:2101.07330](https://arxiv.org/abs/2101.07330)
+* "Suppression of epileptic seizures via Anderson localization," (with Maysamreza Chamanzar and Mohammad-Reza Alam), *Journal of The Royal Society Interface* 14.127 (2017): 20160872. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0872).
 
-* **B. Zhang**, M. Chamanzar, and M.-R. Alam. "Suppression of epileptic seizures via Anderson localization". *Journal of The Royal Society Interface* 14.127 (2017): 20160872. [Link](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2016.0872)
+
 
 ## Conference proceedings
-* **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via Controlled Stochastic Dynamical Systems." *I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.* 2021. [Link](https://openreview.net/forum?id=dHruzYDH719)
 
-* **B. Zhang**, Y. Marzouk, B.-Y. Min, and T. Sahai. "Rare event simulation of a rotorcraft system." *2018 AIAA Non-Deterministic Approaches Conference.* 2018. [Link](https://arc.aiaa.org/doi/10.2514/6.2018-1181)
+* "Sampling via Controlled Stochastic Dynamical Systems," (with Tuhin Sahai and Youssef Marzouk),  *I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.* 2021. [Link](https://openreview.net/forum?id=dHruzYDH719). 
+
+
+* "Rare event simulation of a rotorcraft system," (with Youssef Marzouk, Byung-Young Min, and Tuhin Sahai), *2018 AIAA Non-Deterministic Approaches Conference.* 2018. [Link](https://arc.aiaa.org/doi/10.2514/6.2018-1181). 
 
 
 ## Theses
 
-* **B. Zhang**. "Efficient Sampling Methods of, by, and for Stochastic Dynamical Systems." PhD Thesis, Massachusetts Institute of Technology, 2022. [Link](https://dspace.mit.edu/handle/1721.1/143353)
+* "Efficient Sampling Methods of, by, and for Stochastic Dynamical Systems." PhD Thesis, Massachusetts Institute of Technology, 2022. [Link](https://dspace.mit.edu/handle/1721.1/143353)
 
 
-* **B. Zhang**. "A coupling approach to rare event simulation via dynamic importance sampling." SM Thesis, Massachusetts Institute of Technology, 2017. [Link](https://dspace.mit.edu/handle/1721.1/112384)
+* "A coupling approach to rare event simulation via dynamic importance sampling." SM Thesis, Massachusetts Institute of Technology, 2017. [Link](https://dspace.mit.edu/handle/1721.1/112384)
 
 
 
