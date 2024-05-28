@@ -10,7 +10,7 @@ author_profile: true
 
 ## At Brown University 
 ### APMA 1930Z -- Introduction to Mathematical Machine Learning
-* Co-instructor: [Spring 2024](https://benjzhang.github.io/apma1930z/)
+* Co-instructor: [Fall 2024](https://benjzhang.github.io/apma1930z/)
 
 ## At UMass Amherst
 ### MATH 590STA -- Introduction to Mathematical Machine Learning
