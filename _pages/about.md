@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research interests lie broadly in the **mathematics of machine learning** for analyzing and develoing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. I also develop new methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative flows. 
+I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research interests lie broadly in the **mathematics of machine learning** for analyzing and developing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. I also develop new methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative flows. 
 
 
 
