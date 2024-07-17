@@ -13,7 +13,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints and submitted papers
+  ## Preprints and submitted papers
 
 
 12. "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows," (with Hyemin Gu, Markos Katsoulakis, and Luc Rey-Bellet), [arXiv:2407:11901](https://arxiv.org/abs/2407.11901). 
@@ -33,7 +33,7 @@ author_profile: true
 <!-- * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation. -->
 
 
-## Journal articles
+  ## Journal articles
 
 5. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics," (with Youssef Marzouk and Konstantinos Spiliopoulos), *Statistics and Computing*, 32(5), 78, 2022. [Link](https://link.springer.com/article/10.1007/s11222-022-10147-6) [arXiv:2108.08247](https://arxiv.org/abs/2108.08247).
 
@@ -44,7 +44,7 @@ author_profile: true
 
 
 
-## Conference proceedings
+  ## Conference proceedings
 
 2. "Sampling via Controlled Stochastic Dynamical Systems," (with Tuhin Sahai and Youssef Marzouk),  *I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.* 2021. [Link](https://openreview.net/forum?id=dHruzYDH719). 
 
@@ -52,7 +52,7 @@ author_profile: true
 1. "Rare event simulation of a rotorcraft system," (with Youssef Marzouk, Byung-Young Min, and Tuhin Sahai), *2018 AIAA Non-Deterministic Approaches Conference.* 2018. [Link](https://arc.aiaa.org/doi/10.2514/6.2018-1181). 
 
 
-## Theses
+  ## Theses
 
 * "Efficient Sampling Methods of, by, and for Stochastic Dynamical Systems." PhD Thesis, Massachusetts Institute of Technology, 2022. [Link](https://dspace.mit.edu/handle/1721.1/143353)
 
