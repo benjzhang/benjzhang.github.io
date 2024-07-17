@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification. 
+I am a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research interests broadly lie in the **mathematics of machine learning**, in particular analyzing and developing **generative modeling** algorithms, from the perspectives of **mathematical control theory** and **mean-field games**. I also develop mnovel algorithms in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative flows. 
 
-My current research interests include **mathematics of generative modeling**, **rare event simulation for dynamical systems**, and **sampling methods for Bayesian computation**. 
+
+
+<!-- My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification.  -->
+
+<!-- My current research interests include **mathematics of generative modeling**, **rare event simulation for dynamical systems**, and **sampling methods for Bayesian computation**.  -->
 
 <!-- My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. 
  -->
@@ -35,19 +39,23 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent news & upcoming events 
 
+**July**: Excited to announce a new preprint: [Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows](https://arxiv.org/abs/2407.11901). We introduce a generative flow trained on the combination of Wasserstein-1 and Wasserstein-2 proximal of $f$-divergences. While optimal transport cost (Wasserstein-2 proximals) have been used to stabilize the training of generative flows, they still struggle to learn high-dimensional data supported on low-dimensional manifolds. Our new $\mathcal{W}_1\oplus\mathca{W}_2$ generative flow learning distributions without densities using Wasserstein-1 proximals of the KL divergence. This is joint work with [Hyemin Gu](https://hyemingu.github.io), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
+
 **May**: Excited to announce two new preprints! In [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754), we prove SGM generalization bounds in terms of integral probability metrics using regularity theory of Hamilton-Jacobi-Bellman equations and an novel uncertainty propagation perspective. This is joint work with [Nikiforos Mimikos-Stamatopoulos](https://math.uchicago.edu/~nmimikos/) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
 
 In [Nonlinear denoising score matching for enhanced learning of structured distributions](https://arxiv.org/abs/2405.15625), we propose SGMs with *nonlinear* forward processes, which produces structure-preserving generative models. A nonlinear implementation of denoising score-matching is developed to facilitate the use of nonlinear processes. This is joint work with [Jeremey Birrell](https://people.umass.edu/jbirrell/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/), and [Wei Zhu](https://people.math.umass.edu/~zhu/). 
 
-
-**February**:
-
-I am excited to announce our new preprint title [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162). We show that score-based generative models can be fundamentally understood as the Wasserstein proximal operator of cross-entropy and we build informed models that resolve the memorization phenomenon in SGMs. This is joint work with [Siting Liu](https://sites.google.com/view/siting6ucla/home), [Wuchen Li](https://people.math.sc.edu/wuchen/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Stan Osher](https://www.math.ucla.edu/~sjo/). 
-
-
-
 [News archive](https://benjzhang.github.io/news).
+
+
+
+<!-- **February**:
+
+I am excited to announce our new preprint title [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162). We show that score-based generative models can be fundamentally understood as the Wasserstein proximal operator of cross-entropy and we build informed models that resolve the memorization phenomenon in SGMs. This is joint work with [Siting Liu](https://sites.google.com/view/siting6ucla/home), [Wuchen Li](https://people.math.sc.edu/wuchen/), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Stan Osher](https://www.math.ucla.edu/~sjo/).  -->
+
+
+
 
 
 <!-- 

@@ -8,6 +8,9 @@ author_profile: true
 
 ## 2024
 
+**July**: Excited to announce a new preprint: [Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows](https://arxiv.org/abs/2407.11901). We introduce a generative flow trained on the combination of Wasserstein-1 and Wasserstein-2 proximal of $f$-divergences. While optimal transport cost (Wasserstein-2 proximals) have been used to stabilize the training of generative flows, they still struggle to learn high-dimensional data supported on low-dimensional manifolds. Our new $\mathcal{W}_1\oplus\mathca{W}_2$ generative flow learning distributions without densities using Wasserstein-1 proximals of the KL divergence. This is joint work with [Hyemin Gu](https://hyemingu.github.io), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
+
+
 **May**: Excited to announce two new preprints! In [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754), we prove SGM generalization bounds in terms of integral probability metrics using regularity theory of Hamilton-Jacobi-Bellman equations and an novel uncertainty propagation perspective. This is joint work with [Nikiforos Mimikos-Stamatopoulos](https://math.uchicago.edu/~nmimikos/) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
 
