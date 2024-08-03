@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Benjamin J. Zhang"
   avatar           : "bio-photo.jpg"
-  bio              : "Postdoctoral Research Associate and Lecturer @ UMass Amherst Department of Mathematics & Statistics"
-  location         : "Amherst, MA"
+  bio              : "Postdoctoral Research Associate @ Brown University Division of Applied Mathematics"
+  location         : "Providence, RI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0F864EMAAAAJ&hl=en"
-  email            : "bjzhang@umass.edu"
+  email            : "benjamin_zhang@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -20,7 +20,7 @@ MWF 2:00-2:50 PM in TBD
 ## Instructors and contact
 [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), Paul_Dupuis@Brown.edu
 
-Benjamin Zhang, bjzhang@umass.edu
+Benjamin Zhang, Benjamin_Zhang@Brown.edu
 
 
 ## Course description
