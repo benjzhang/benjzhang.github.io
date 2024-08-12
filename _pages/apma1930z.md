@@ -45,15 +45,14 @@ Supplementary readings will be provided for topics not covered in the textbooks.
 
 ## Homework & Grading (subject to change!)
 Your grade will be determined by **8** problems sets and a **final project**. 
-- Homework: 56%
-- Quiz: 9%
-- Minute papers: 5%
+- Homework: 30%
+- Quiz: 30%
 - Project proposal: 10%
-- Project report: 20% 
+- Project report: 30% 
 
-Each homework assignment is worth 8% of the final grade, with a cap of 56% over all 8 assignments. Each problem set will consist of derivations, proof--based questions, and numerical exploration and experimentation of machine learning algorithms. 
+Each homework assignment equally weighted, with a cap of 56% over all 8 assignments. Each problem set will consist of derivations, proof--based questions, and numerical exploration and experimentation of machine learning algorithms. 
 
-APMA 1930Z is an experimental course, meaning that feedback will be invaluable for future iterations of this course. Therefore, the instructors ask that students complete short reflections after each class on what they learned and how effectively lectures and homework contributed to their learning. Attendance of lectures will be crucial for receiving credit for minute papers. 
+<!-- APMA 1930Z is an experimental course, meaning that feedback will be invaluable for future iterations of this course. Therefore, the instructors ask that students complete short reflections after each class on what they learned and how effectively lectures and homework contributed to their learning. Attendance of lectures will be crucial for receiving credit for minute papers.  -->
 
 
 An individual final project is required to pass the class. A project proposal will be due in the middle of the semester. Poster sessions showcasing each students' work will take place on the last week of class. The final project report (7-10 pages) will be due at the end of the semester. A list of suggested projects as well as guidelines for the proposal, final report, and poster session will be released early in the semester.  Students are also encouraged to choose their own project with approval from the instructors. 
