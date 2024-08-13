@@ -50,7 +50,7 @@ Your grade will be determined by **8** problems sets and a **final project**.
 - Project proposal: 10%
 - Project report: 30% 
 
-Each homework assignment equally weighted, with a cap of 56% over all 8 assignments. Each problem set will consist of derivations, proof--based questions, and numerical exploration and experimentation of machine learning algorithms. 
+Each homework assignment equally weighted. Each problem set will consist of derivations, proof--based questions, and numerical exploration and experimentation of machine learning algorithms. 
 
 <!-- APMA 1930Z is an experimental course, meaning that feedback will be invaluable for future iterations of this course. Therefore, the instructors ask that students complete short reflections after each class on what they learned and how effectively lectures and homework contributed to their learning. Attendance of lectures will be crucial for receiving credit for minute papers.  -->
 
