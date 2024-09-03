@@ -66,8 +66,8 @@ An individual final project is required to pass the class. A project proposal wi
 ### Part 1: Regression
 
 - Linear least squares regression; normal equations, SVD, conditioning
-- Maximum likelihood estimation and information theory; entropy, Kullback-Leibler divergence, minimum--variance unbiased estimators, Cram\'er-Rao bound, best linear unbiased estimators, Gauss--Markov theorem
-- Bayesian inference; \emph{Maximum a posteriori} estimators, conjugate priors
+- Maximum likelihood estimation and information theory; entropy, Kullback-Leibler divergence, minimum--variance unbiased estimators, Cramer-Rao bound, best linear unbiased estimators, Gauss--Markov theorem
+- Bayesian inference; *Maximum a posteriori* estimators, conjugate priors
 - Regularization; underdetermined least squares, rank-deficient least squares, Tikhonov regularization, ridge and LASSO regression, compressed sensing, sparsity, Gauss and Laplace priors
 - Bayesian linear regression
 - Model selection and generalization; bias--variance tradeoff, cross validation
@@ -106,6 +106,7 @@ An individual final project is required to pass the class. A project proposal wi
 
 - Learning theory; model complexity, Vapnike-Chervonenkis-dimension, generalization, PAC learning
 - Neural tangent kernel
+
 <!-- \item \textbf{Lecture 22:} Theory of deep learning II; connections to kernel methods, neural tangent kernel
 
 \item \textbf{Lecture 23:} Theory of deep learning III; implicit regularization, double descent phenomenon -->
