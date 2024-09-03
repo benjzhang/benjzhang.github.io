@@ -12,10 +12,10 @@ author_profile: false
 
  [<img align="right" width="400" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/files/ma590sta_poster.png)
 
-<!-- A final syllabus and course schedule has been posted to [Canvas](https://umamherst.instructure.com/courses/8825) -->
+A final syllabus and course schedule has been posted to [Canvas](https://canvas.brown.edu/courses/1096947)
 
 ## Fall 2024
-MWF 2:00-2:50 PM in TBD
+MWF 2:00-2:50 PM in Rockefeller Library 205
 
 ## Instructors and contact
 [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), Paul_Dupuis@Brown.edu
@@ -32,9 +32,7 @@ This class is intended for an advanced undergraduate or a first year Master's st
 
 
 ## Textbook 
-No required textbook. We will assign selected readings from *Probabilistic Machine Learning* by Murphy and *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman. 
-
-We will be reading selections from 
+No required textbook. We will be reading selections from 
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin P. Murphy
 - [Gaussian processes for Machine Learning](https://gaussianprocess.org/gpml/) by Carl Edward Rasmussen and Christopher K. I. Williams
 - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
@@ -65,37 +63,49 @@ An individual final project is required to pass the class. A project proposal wi
 -  Introduction and motivation; Tour of machine learning topics and methods. Supervised versus unsupervised learning, regression, classification, dimension reduction. 
 -  Review of linear algebra; vector and matrix norms, singular value decomposition, Moore-Penrose pseudoinverse, Eckhart-Young theorem, low rank approximations, condition numbers
 
-### Part 1: Linear methods and foundations
+### Part 1: Regression
 
 - Linear least squares regression; normal equations, SVD, conditioning
-- Maximum likelihood estimation and information theory; entropy, Kullback-Leibler divergence, minimum--variance unbiased estimators, Cramer-Rao bound, best linear unbiased estimators, Gauss--Markov theorem
-- Model selection and generalization; bias--variance tradeoff, cross validation
-- Bayesian inference; *Maximum a posteriori* estimators, conjugate priors
+- Maximum likelihood estimation and information theory; entropy, Kullback-Leibler divergence, minimum--variance unbiased estimators, Cram\'er-Rao bound, best linear unbiased estimators, Gauss--Markov theorem
+- Bayesian inference; \emph{Maximum a posteriori} estimators, conjugate priors
 - Regularization; underdetermined least squares, rank-deficient least squares, Tikhonov regularization, ridge and LASSO regression, compressed sensing, sparsity, Gauss and Laplace priors
-- Linear dimension reduction; principal components analysis, principal components regression, Johnson-Lindenstrauss lemma
-- Optimization methods; gradient descent, stochastic gradient descent Newton's method, constrained optimization, KKT conditions
--  Linear discriminant analysis, Logistic regression, perceptrons, separating hyperplanes
+- Bayesian linear regression
+- Model selection and generalization; bias--variance tradeoff, cross validation
      
 
 
 
-### Part 2: Kernel methods and learning theory
+### Part 2: Deep learning and optimization
 
-- Support vector machines; linear SVMs, kernel SVMs
-- Learning theory; model complexity, PAC learning, Vapnik–Chervonenkis dimension, Rademacher complexity, generalization
-- Reproducing kernel Hilbert spaces; Hilbert spaces, Mercer's theorem
-- Nonparametric regression;  Derivative regularization, Sobolev spaces, representer theorem
-- Gaussian processes; Karhunen-Loeve expansion, Nystrom methods, Mercer kernels, Gaussian process regression, model selection, marginal likelihood
-- Kernels for large datasets; Random Fourier features
-- Nonlinear dimension reduction; kernel PCA
+- Optimization methods; gradient descent, stochastic gradient descent, Newton's method, constrained optimization, KKT conditions
+- Introduction to neural networks;  neural network architectures, activation functions, backpropagation
+- Regularization; double descent phenomena, model complexity, model selection 
+- Theory of deep learning; universal approximation theorems
 
-### Part 3: Deep learning methods
+### Part 3: Classification
 
- - Introduction to neural networks; multilayer perceptrons, neural network architectures, activation functions, backpropagation
-- Regularization; double descent phenomena, model complexity, model selection       
-- Nonlinear dimension reduction; autoencoders
-- Theory of deep learning; universal approximation theorems, connections to kernel methods
+ - Linear discriminant analysis, Logistic regression, perceptrons, separating hyperplanes
+- Support vector machines; linear SVMs, kernel SVMs    
+- Deep learning for classification; multilayer perceptrons
 
+
+### Part 4: Dimension reduction
+
+ - Linear dimension reduction; principal components analysis, Johnson-Lindenstrauss lemma
+- Nonlinear dimension reduction; kernel PCA, autoencoders
+- Variational autoencoders; generative modeling
+
+
+### Part 5: Kernel methods
+
+- Reproducing kernel Hilbert spaces; Hilbert spaces, Mercer's theorem, Mercer kernels
+- Nonparametric regression; kernel ridge regression, representer theorem, Derivative regularization
+-  Gaussian processes regression; Gaussian processes, model selection, marginal likelihood
+
+### Part 6: Advanced topics
+
+- Learning theory; model complexity, Vapnike-Chervonenkis-dimension, generalization, PAC learning
+- Neural tangent kernel
 <!-- \item \textbf{Lecture 22:} Theory of deep learning II; connections to kernel methods, neural tangent kernel
 
 \item \textbf{Lecture 23:} Theory of deep learning III; implicit regularization, double descent phenomenon -->
