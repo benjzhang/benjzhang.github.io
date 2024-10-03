@@ -8,6 +8,20 @@ author_profile: true
 
 ## 2024
 
+**October**: 
+
+New preprint on structure-preserving generative modeling! In [Equivariant score-based generative models provably learn distributions with symmetries efficiently](https://arxiv.org/abs/2410.01244), we prove generalization bounds for equivariant score-based generative modeling and provably show that the frequently applied practice of data augmentation is inferior to using an explicitly equivariant score function when learning distributions invariant to a group. This work builds upon the PDE theory approach to analysis of generative models [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754). This is joint work with [Ziyu Chen](https://sites.google.com/view/ziyu-chen) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/).
+
+Happy to announce that our paper [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754) has been accepted to NeurIPS 2024 through the Main Track! 
+
+
+I am organizing a minisymposium at the [SIAM Conference on Mathematics of Data Science 2024](https://www.siam.org/conferences-events/siam-conferences/mds24/) titled [Foundations of structure-exploiting flow-based generative models](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80601). I will also be presenting in the [Optimization algorithms for mean-field games and applications in data science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80516) minisymposium where I will where I will be presenting on our recent work relating mean-field games with generative modeling. 
+
+
+**August**: I have moved to the Division of Applied Mathematics at Brown University. This is the continuation of the same AFOSR postdoc I started at UMass Amherst. My mentors as Paul Dupuis, Markos Katsoulakis, and Luc Rey-Bellet. This year, the focus will be on interacting particle methods for sampling and stochastic control. 
+
+
+
 **July**: Excited to announce a new preprint: [Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows](https://arxiv.org/abs/2407.11901). We introduce a generative flow trained on the combination of Wasserstein-1 and Wasserstein-2 proximal of $f$-divergences. While optimal transport cost (Wasserstein-2 proximals) have been used to stabilize the training of generative flows, they still struggle to learn high-dimensional data supported on low-dimensional manifolds. Our new $\mathcal{W}_1\oplus\mathca{W}_2$ generative flow learning distributions without densities using Wasserstein-1 proximals of the KL divergence. This is joint work with [Hyemin Gu](https://hyemingu.github.io), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
 
 
