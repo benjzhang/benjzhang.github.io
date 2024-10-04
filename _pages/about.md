@@ -47,6 +47,7 @@ Happy to announce that our paper [Score-based generative models are provably rob
 
 
 I am organizing a minisymposium at the [SIAM Conference on Mathematics of Data Science 2024](https://www.siam.org/conferences-events/siam-conferences/mds24/) titled [Foundations of structure-exploiting flow-based generative models](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80601). I will also be presenting in the [Optimization algorithms for mean-field games and applications in data science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80516) minisymposium where I will where I will be presenting on our recent work relating mean-field games with generative modeling. 
+
 [News archive](https://benjzhang.github.io/news).
 
 
