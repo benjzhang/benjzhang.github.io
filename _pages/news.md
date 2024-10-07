@@ -10,6 +10,9 @@ author_profile: true
 
 **October**: 
 
+Our paper [Transport map unadjusted Langevin algorithms](https://arxiv.org/abs/2302.07227) has been accepted for publication in *Foundations of Data Science*!
+
+
 New preprint on structure-preserving generative modeling! In [Equivariant score-based generative models provably learn distributions with symmetries efficiently](https://arxiv.org/abs/2410.01244), we prove generalization bounds for equivariant score-based generative modeling and provably show that the frequently applied practice of data augmentation is inferior to using an explicitly equivariant score function when learning distributions invariant to a group. This work builds upon the PDE theory approach to analysis of generative models [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754). This is joint work with [Ziyu Chen](https://sites.google.com/view/ziyu-chen) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/).
 
 Happy to announce that our paper [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754) has been accepted to NeurIPS 2024 through the Main Track! 
