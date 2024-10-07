@@ -25,14 +25,16 @@ author_profile: true
 
 9. "A mean-field games laboratory for generative modeling," (with Markos Katsoulakis), [arXiv:2304.13534](https://arxiv.org/abs/2304.13534).
 
-8. "Transport map unadjusted Langevin algorithms: learning and discretizing perturbed samplers," (with Youssef Marzouk and Konstantinos Spiliopoulos), [arXiv:2302.07227](https://arxiv.org/abs/2302.07227).
 
-7. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
+8. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
 
 <!-- * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation. -->
 
 
 ## Journal articles
+
+7. "Transport map unadjusted Langevin algorithms: learning and discretizing perturbed samplers," (with Youssef Marzouk and Konstantinos Spiliopoulos), [arXiv:2302.07227](https://arxiv.org/abs/2302.07227). *Foundations of Data Science, accepted.* 
+
 
 6. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics," (with Youssef Marzouk and Konstantinos Spiliopoulos), *Statistics and Computing*, 32(5), 78, 2022. [Link](https://link.springer.com/article/10.1007/s11222-022-10147-6) [arXiv:2108.08247](https://arxiv.org/abs/2108.08247).
 
@@ -43,7 +45,7 @@ author_profile: true
 
 ## Peer-reviewed conference proceedings 
 
-3. "Score-based generative models are provably robust: an uncertainty quantification perspective," (with Nikiforos Mimikos-Stamatopoulos and Markos Katsoulakis), [arXiv:2405.15754](https://arxiv.org/abs/2405.15754). *To appear NeurIPS 2024.*
+3. "Score-based generative models are provably robust: an uncertainty quantification perspective," (with Nikiforos Mimikos-Stamatopoulos and Markos Katsoulakis), [arXiv:2405.15754](https://arxiv.org/abs/2405.15754). *NeurIPS 2024, accepted.*
 
 
 
