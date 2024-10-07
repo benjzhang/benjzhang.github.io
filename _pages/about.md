@@ -36,9 +36,19 @@ Join us for MATH 590STA, an introduction to mathematical machine learning! We wi
 ## Learning *Learning*
 I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar) seminar, along with [Hyemin Gu](https://hyemingu.github.io). This is an internal seminar at UMass Amherst where graduate students and postdocs discuss latest developments in machine learning and data science through reading groups and tutorials. It is also a venue for students to present their research. Please contact us if you wish to participate in the group!  -->
 
-<div style="display: flex; justify-content: space-between;">
+<style>
+  .two-columns {
+    display: flex;
+    justify-content: space-between;
+  }
+  .column {
+    width: 48%;
+  }
+</style>
 
-  <div style="width: 48%;">
+<div class="two-columns">
+
+  <div class="column">
     ## Recent News
 
     **October**: 
@@ -50,7 +60,7 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
     Happy to announce that our paper [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754) has been accepted to NeurIPS 2024 through the Main Track! 
   </div>
 
-  <div style="width: 48%;">
+  <div class="column">
     ## Upcoming Events
     
     **October** 
@@ -61,6 +71,7 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
   </div>
 
 </div>
+
 
 
 
