@@ -23,9 +23,7 @@ I earned my PhD in Computational Science and Engineering from MIT in 2022. My ad
 
 
 
-## [APMA 1930Z: Introduction to Mathematical Machine Learning (Fall 2024)](https://benjzhang.github.io/apma1930z/)
-[<img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/apma1930z/)
-I will be co-teaching APMA 1930Z at Brown University in Fall 2024. APMA 1930Z is the second iteration of [Math 590STA, first offered at UMass Amherst in Spring 2024](https://benjzhang.github.io/ma590sta/). We cover classical solutions to machine learning tasks such as regression, classification, and dimension reduction from fundamental mathematical concepts. 
+
 
 <!-- ## NEW COURSE for Spring 2024! [Math 590STA: Intro to Mathematical Machine Learning](https://benjzhang.github.io/ma590sta/)
 [<img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/ma590sta/)
@@ -51,11 +49,20 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
     
  **October** 
     
-* I am organizing a minisymposium at the [SIAM Conference on Mathematics of Data Science 2024](https://www.siam.org/conferences-events/siam-conferences/mds24/) titled [Foundations of structure-exploiting flow-based generative models](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80601). I will also be presenting in the [Optimization algorithms for mean-field games and applications in data science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80516) minisymposium where I will be presenting on our recent work relating mean-field games with generative modeling.
+* I am organizing a minisymposium at the [SIAM Conference on Mathematics of Data Science 2024](https://www.siam.org/conferences-events/siam-conferences/mds24/) titled [Foundations of structure-exploiting flow-based generative models](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80601). I will also be presenting in the [Optimization algorithms for mean-field games and applications in data science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80516) minisymposium where I will be presenting on our ongoing program relating mean-field games with generative modeling. I will also be presenting the associated poster in the [Tuesday poster session](https://meetings.siam.org/sess/dsp_talk.cfm?p=139931). 
+
+
+
+
+
 
 [News archive](https://benjzhang.github.io/news)
 
 
+
+## [APMA 1930Z: Introduction to Mathematical Machine Learning (Fall 2024)](https://benjzhang.github.io/apma1930z/)
+[<img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/apma1930z/)
+I will be co-teaching APMA 1930Z at Brown University in Fall 2024. APMA 1930Z is the second iteration of [Math 590STA, first offered at UMass Amherst in Spring 2024](https://benjzhang.github.io/ma590sta/). We cover classical solutions to machine learning tasks such as regression, classification, and dimension reduction from fundamental mathematical concepts. 
 
 
 
