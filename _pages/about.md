@@ -46,11 +46,23 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 * Happy to announce that our paper [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754) has been accepted to NeurIPS 2024 through the Main Track! 
 
 ## Upcoming Events
-    
+
+**January**
+
+* I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
+
+**December**
+
+* I will be giving a [colloquium](https://events.rice.edu/event/384273-cmor-colloquium-series-benjamin-zhang-brown) talk in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu).  
+
+**November**
+
+* I will be attending the NITMB workshop on [Random Dynamical Systems, with Applications in Biology](https://www.nitmb.org/random-dynamical-systems), where I will be giving an overview talk on applied stochastic differential equations.
+<!--     
  **October** 
     
 * I am organizing a minisymposium at the [SIAM Conference on Mathematics of Data Science 2024](https://www.siam.org/conferences-events/siam-conferences/mds24/) titled [Foundations of structure-exploiting flow-based generative models](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80601). I will also be presenting in the [Optimization algorithms for mean-field games and applications in data science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80516) minisymposium where I will be presenting on our ongoing program relating mean-field games with generative modeling. I will also be presenting the associated poster in the [Tuesday poster session](https://meetings.siam.org/sess/dsp_talk.cfm?p=139931). 
-
+ -->
 
 
 

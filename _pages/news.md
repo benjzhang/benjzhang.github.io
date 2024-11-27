@@ -5,8 +5,24 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2025
+
+**January**
+
+* I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
+
 
 ## 2024
+
+
+**December**:
+
+* I will be giving a [colloquium](https://events.rice.edu/event/384273-cmor-colloquium-series-benjamin-zhang-brown) talk in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu).  
+
+
+**November**
+
+* I will be attending the NITMB workshop on [Random Dynamical Systems, with Applications in Biology](https://www.nitmb.org/random-dynamical-systems), where I will be giving an overview talk on applied stochastic differential equations.
 
 **October**: 
 

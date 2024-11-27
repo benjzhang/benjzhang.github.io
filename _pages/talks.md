@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited talks
+* *A mean-field games laboratory for analysis and innovation in generative modeling.* Department of Computational Applied Mathematics and Operations Research Colloquium Series, Rice University, December 2, 2024
+* *A primer on applied stochastic differential equations.* NITMB Workshop on Random Dynamical Systems, with Applications in Biology, Chicago, IL, November 7, 2024.
 * *A mean-field games laboratory for generative modeling.* NYU Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning, November 16, 2023.
 * *A mean-field games laboratory for generative modeling.* Computational and Data-enabled Science Seminar, Emory University, Atlanta, GA, October 26, 2023.
 * *A mean-field games laboratory for generative modeling.* [Mean Field Games and Machine Learning Seminar](https://sites.google.com/view/mlmfgseminar/home), October 24, 2023. [Recording](https://www.youtube.com/watch?v=OV5rmgnqLa4)
@@ -31,6 +33,8 @@ author_profile: true
 
 
 ## Selected conference presentations
+* *A mean-field games laboratory for generative modeling.* SIAM Conference on Mathematics of Data Science, Atlanta, GA, 2024. 
+
 * *A mean-field games laboratory for generative modeling.* SIAM Conference on Uncertainty Quantification, Trieste, IT, 2024. 
 
 * *Transport map unadjusted Langevin algorithm: analysis and connections.* SIAM Conference on the Mathematics of Data Science, San Diego, CA, 2022. 
