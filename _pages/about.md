@@ -59,7 +59,7 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 * I will be attending the NITMB workshop on [Random Dynamical Systems, with Applications in Biology](https://www.nitmb.org/random-dynamical-systems), where I will be giving an overview talk on applied stochastic differential equations.
     
- <!-- **October** 
+<!-- **October** 
     
 * I am organizing a minisymposium at the [SIAM Conference on Mathematics of Data Science 2024](https://www.siam.org/conferences-events/siam-conferences/mds24/) titled [Foundations of structure-exploiting flow-based generative models](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80601). I will also be presenting in the [Optimization algorithms for mean-field games and applications in data science](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80516) minisymposium where I will be presenting on our ongoing program relating mean-field games with generative modeling. I will also be presenting the associated poster in the [Tuesday poster session](https://meetings.siam.org/sess/dsp_talk.cfm?p=139931).  -->
 
