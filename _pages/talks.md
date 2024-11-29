@@ -16,8 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited talks
-* *A mean-field games laboratory for analysis and innovation in generative modeling.* Department of Computational Applied Mathematics and Operations Research Colloquium Series, Rice University, December 2, 2024
+* *A mean-field games laboratory for analysis and innovation in generative modeling.* Department of Computational Applied Mathematics and Operations Research Colloquium Series, Rice University, December 2, 2024.
 * *A primer on applied stochastic differential equations.* NITMB Workshop on Random Dynamical Systems, with Applications in Biology, Chicago, IL, November 7, 2024.
+* *A mean-field games laboratory for generative modeling.* Probability Seminar, Division of Applied Mathematics, Brown University, December 12, 2023.
 * *A mean-field games laboratory for generative modeling.* NYU Shanghai Frontiers Science Center of Artificial Intelligence and Deep Learning, November 16, 2023.
 * *A mean-field games laboratory for generative modeling.* Computational and Data-enabled Science Seminar, Emory University, Atlanta, GA, October 26, 2023.
 * *A mean-field games laboratory for generative modeling.* [Mean Field Games and Machine Learning Seminar](https://sites.google.com/view/mlmfgseminar/home), October 24, 2023. [Recording](https://www.youtube.com/watch?v=OV5rmgnqLa4)
@@ -50,6 +51,12 @@ author_profile: true
 * *Rare event simulation of a rotorcraft system.* AIAA Scitech Forum Non-deterministic Approaches Conference, Kissimmee, FL, 2018.
 
 ## Minisymposia organized
+
+* SIAM Conference on Mathematics of Data Science, Atlanta, GA, 2024. *Foundations of Structure-exploiting Flow-based Generative Models* (4 talks).
+
+* SIAM Conference on Uncertainty Quantification, Trieste, Italy, 2024. *Optimal Transport for Uncertainty Quantification* (4 talks).
+
+* SIAM Conference on Uncertainty Quantification, Atlanta, GA, 2022. *Data-driven Approaches to Rare and Extreme Events* (8 talks).
 
 * SIAM Conference on Computational Science and Engineering, Austin, TX, 2021. *Computational Dynamics meets Computational Statistics* (8 talks). 
 
