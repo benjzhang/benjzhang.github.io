@@ -51,6 +51,8 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/) from January 13-17, 2025 .
 
+I am excited to be co-organizing the SIAM Minisymposium on Mathematical Perspectives on Generative modeling at the Joint Mathematics Meeting in Seattle, WA from January 8-11, 2025. This minisymposium is co-organized with [Jimmie Adriazola](https://search.asu.edu/profile/5123395)! [Session1](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11412), [Session 2](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11425).
+
 **December**
 
 I will be giving a colloquium talk in the [Department of Applied and Computational Mathematics and Statistics at the University of Notre Dame](https://acms.nd.edu) on December 9.
