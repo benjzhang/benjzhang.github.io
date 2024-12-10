@@ -53,6 +53,8 @@ I will be attending and presenting in the [IPAM Workshop on Sampling, Inference,
 
 **December**
 
+I will be giving a colloquium talk in the [Department of Applied and Computational Mathematics and Statistics at the University of Notre Dame](https://acms.nd.edu) on December 9.
+
 I will be giving a [colloquium](https://events.rice.edu/event/384273-cmor-colloquium-series-benjamin-zhang-brown) talk in the [Department of Computational Applied Mathematics and Operations Research at Rice University](https://cmor.rice.edu) on December 2. 
 
 **November**
