@@ -47,6 +47,18 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Upcoming Events
 
+**July**
+
+* I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
+
+**May**
+I will be attending and presenting in the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) in the minisymposium on [Collective Dynamics in Multi-Agent Systems: Advances in Learning and Optimization](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82752). I will be presenting work on mean-field games and generative modeling. 
+
+
+**March**
+I am attending and presenting in the [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences-events/past-event-archive/cse25) in the minisymposium on [Addressing intractability in optimal control](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81111). I am presenting recent ongoing work on ergodic control through interacting particle systems and generative modeling tools. 
+
+<!-- 
 **January**
 
 I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/) from January 13-17, 2025 .
@@ -61,7 +73,7 @@ I will be giving a [colloquium](https://events.rice.edu/event/384273-cmor-colloq
 
 **November**
 
-I will be attending the NITMB workshop on [Random Dynamical Systems, with Applications in Biology](https://www.nitmb.org/random-dynamical-systems) from November 4-8, where I will be giving an overview talk on applied stochastic differential equations.
+I will be attending the NITMB workshop on [Random Dynamical Systems, with Applications in Biology](https://www.nitmb.org/random-dynamical-systems) from November 4-8, where I will be giving an overview talk on applied stochastic differential equations. -->
     
 <!-- **October** 
     

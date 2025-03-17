@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 <!-- <embed src="https://benjzhang.github.io/files/zhang_cv_202201.pdf" type="application/pdf" width="600px" height="500px" />  -->
 
-[Click here](https://benjzhang.github.io/files/zhang_cv_102024.pdf).
-### Last updated October 2024
+[Click here](https://benjzhang.github.io/files/zhang_cv_032025.pdf).
+### Last updated March 2025

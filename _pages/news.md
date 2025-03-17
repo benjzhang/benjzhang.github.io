@@ -7,10 +7,18 @@ author_profile: true
 
 ## 2025
 
-**January**
+**July**
 
 * I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
 
+**May**
+I will be attending and presenting in the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) in the minisymposium on [Collective Dynamics in Multi-Agent Systems: Advances in Learning and Optimization](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82752). I will be presenting work on mean-field games and generative modeling. 
+
+**March**
+I am attending and presenting in the [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences-events/past-event-archive/cse25) in the minisymposium on [Addressing intractability in optimal control](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81111). I am presenting recent ongoing work on ergodic control through interacting particle systems and generative modeling tools. 
+
+
+**January**
 
 * I am excited to be co-organizing the SIAM Minisymposium on Mathematical Perspectives on Generative modeling at the Joint Mathematics Meeting in Seattle, WA from January 8-11, 2025. This minisymposium is co-organized with [Jimmie Adriazola](https://search.asu.edu/profile/5123395)! [Session1](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11412), [Session 2](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11425).
 
