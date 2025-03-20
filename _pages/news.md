@@ -9,7 +9,7 @@ author_profile: true
 
 **July**
 
-* I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
+I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
 
 **May**
 I will be attending and presenting in the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) in the minisymposium on [Collective Dynamics in Multi-Agent Systems: Advances in Learning and Optimization](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82752). I will be presenting work on mean-field games and generative modeling. 
