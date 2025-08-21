@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral research associate in the [School of Data Science and Society](https://datascience.unc.edu) at the [University of North Carolina at Chapel Hill](https://www.unc.edu) working with [Amarjit Budhiraja](https://abudhiraja.web.unc.edu). My research topics lie broadly in the intersections of **mathematics of machine learning,** **mathematical control theory,** and **Bayesian computation**.  
 
-I was previously a postdoctoral research associate between the [Division of Applied Mathematics] at [Brown University] and the [Department of Mathematics and Statistics] at [UMass Amherst] with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).
+I was previously a postdoctoral research associate between the [Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu) and the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at [UMass Amherst](https://www.umass.edu) with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).
 
 
 <!-- I was previously a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).  -->
@@ -63,12 +63,12 @@ In [Optimal control for Transformer architectures](https://arxiv.org/abs/2505.13
 In [Proximal optimal transport divergences](https://arxiv.org/abs/2505.12097), we introduce a new class of probability divergences based on the infimal convolution of divergences and optimal transport distances, including Wasserstein distances. These distances inherits the desirable properties of information divergences and transport distances, and we discuss how they are frequently unknowingly employed in generative modeling. This is joint work with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home), [Ricardo Baptista](https://www.ricardobaptista.com), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
 
 
-## Upcoming Events
+<!-- ## Upcoming Events
 
 **July**
 
 I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
-
+ -->
 <!-- **May**
 I will be attending and presenting in the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) in the minisymposium on [Collective Dynamics in Multi-Agent Systems: Advances in Learning and Optimization](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82752). I will be presenting work on mean-field games and generative modeling. 
 

@@ -7,12 +7,31 @@ author_profile: true
 
 ## 2025
 
+
+**August**
+I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate. 
+
 **July**
+Our paper [Nonlinear denoising score matching for enhanced learning of structured distributions](https://www.sciencedirect.com/science/article/pii/S0045782525004980) has been accepted to *Computer Methods in Applied Mechanics and Engineering* in their special issues on [Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering](https://www.sciencedirect.com/special-issue/109BSBSP137). 
+
 
 I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
 
+
+
+
 **May**
+Three new preprints! 
+
+In [Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems](https://arxiv.org/abs/2505.23456), we introduce a novel particle exchange Monte Carlo method that provide stochastic representations of eigenvalue problems related to generators of diffusion processes. We also discuss applications for approximating quasistationary distributions and ergodic stochastic control. This is joint work with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). 
+
+In [Optimal control for Transformer architectures](https://arxiv.org/abs/2505.13499), we provide a framework for understanding transformer neural network architectures using tools from optimal control theory. We provide theoretical guarantees and numerical experiments showing how optimal control ideas can enhance generalization, robustness, and training efficiency of transformers. This is joint work with [Kelvin Kan](https://www.math.emory.edu/~kkan5/), [Xingjian Li](https://oden.utexas.edu/people/directory/Xingjian-Li/), [Tuhin Sahai](https://tuhinsahai.github.io), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
+
+In [Proximal optimal transport divergences](https://arxiv.org/abs/2505.12097), we introduce a new class of probability divergences based on the infimal convolution of divergences and optimal transport distances, including Wasserstein distances. These distances inherits the desirable properties of information divergences and transport distances, and we discuss how they are frequently unknowingly employed in generative modeling. This is joint work with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home), [Ricardo Baptista](https://www.ricardobaptista.com), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
+
 I will be attending and presenting in the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) in the minisymposium on [Collective Dynamics in Multi-Agent Systems: Advances in Learning and Optimization](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82752). I will be presenting work on mean-field games and generative modeling. 
+
+
 
 **March**
 I am attending and presenting in the [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences-events/past-event-archive/cse25) in the minisymposium on [Addressing intractability in optimal control](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81111). I am presenting recent ongoing work on ergodic control through interacting particle systems and generative modeling tools. 
