@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu) working with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). My research interests lie broadly in the **mathematics of machine learning** for analyzing and developing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. Conversely, I also develop theoretically well-grounded methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative machine learning. I was previously a postdoctoral research associate the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
+I am a postdoctoral research associate in the [School of Data Science and Society](https://datascience.unc.edu) at the [University of North Carolina at Chapel Hill](https://www.unc.edu) working with [Amarjit Budhiraja](https://abudhiraja.web.unc.edu). My research topics lie broadly in the intersections of **mathematics of machine learning,** **mathematical control theory,** and **Bayesian computation**.  
+
+I was previously a postdoctoral research associate between the [Division of Applied Mathematics] at [Brown University] and the [Department of Mathematics and Statistics] at [UMass Amherst] with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).
+
+
+<!-- I was previously a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).  -->
+
+
+<!-- My research interests lie broadly in the **mathematics of machine learning** for analyzing and developing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. Conversely, I also develop theoretically well-grounded methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative machine learning.  -->
 
 
 
@@ -37,13 +45,23 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent News
 
-**October**: 
-    
-* Our paper [Transport map unadjusted Langevin algorithms](https://arxiv.org/abs/2302.07227) has been accepted for publication in *Foundations of Data Science*!
-    
-* New preprint on structure-preserving generative modeling! In [Equivariant score-based generative models provably learn distributions with symmetries efficiently](https://arxiv.org/abs/2410.01244), we prove generalization bounds for equivariant score-based generative modeling and provably show that the frequently applied practice of data augmentation is inferior to using an explicitly equivariant score function when learning distributions invariant to a group. This work builds upon the PDE theory approach to analysis of generative models [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754). This is joint work with [Ziyu Chen](https://sites.google.com/view/ziyu-chen) and [Markos Katsoulakis](https://people.math.umass.edu/~markos/).
+**August**
+I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate. 
 
-* Happy to announce that our paper [Score-based generative models are provably robust: an uncertainty quantification perspective](https://arxiv.org/abs/2405.15754) has been accepted to NeurIPS 2024 through the Main Track! 
+**July**
+Our paper [Nonlinear denoising score matching for enhanced learning of structured distributions](https://www.sciencedirect.com/science/article/pii/S0045782525004980) has been accepted to *Computer Methods in Applied Mechanics and Engineering* in their special issues on [Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering](https://www.sciencedirect.com/special-issue/109BSBSP137). 
+
+
+**May** 
+
+Three new preprints! 
+
+In [Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems](https://arxiv.org/abs/2505.23456), we introduce a novel particle exchange Monte Carlo method that provide stochastic representations of eigenvalue problems related to generators of diffusion processes. We also discuss applications for approximating quasistationary distributions and ergodic stochastic control. This is joint work with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis). 
+
+In [Optimal control for Transformer architectures](https://arxiv.org/abs/2505.13499), we provide a framework for understanding transformer neural network architectures using tools from optimal control theory. We provide theoretical guarantees and numerical experiments showing how optimal control ideas can enhance generalization, robustness, and training efficiency of transformers. This is joint work with [Kelvin Kan](https://www.math.emory.edu/~kkan5/), [Xingjian Li](https://oden.utexas.edu/people/directory/Xingjian-Li/), [Tuhin Sahai](https://tuhinsahai.github.io), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
+
+In [Proximal optimal transport divergences](https://arxiv.org/abs/2505.12097), we introduce a new class of probability divergences based on the infimal convolution of divergences and optimal transport distances, including Wasserstein distances. These distances inherits the desirable properties of information divergences and transport distances, and we discuss how they are frequently unknowingly employed in generative modeling. This is joint work with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home), [Ricardo Baptista](https://www.ricardobaptista.com), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
+
 
 ## Upcoming Events
 
@@ -51,12 +69,12 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 I will be attending and presenting in the [IPAM Workshop on Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning](https://www.ipam.ucla.edu/programs/workshops/sampling-inference-and-data-driven-physical-modeling-in-scientific-machine-learning/). 
 
-**May**
+<!-- **May**
 I will be attending and presenting in the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/siam-conferences/ds25/) in the minisymposium on [Collective Dynamics in Multi-Agent Systems: Advances in Learning and Optimization](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82752). I will be presenting work on mean-field games and generative modeling. 
 
 
 **March**
-I am attending and presenting in the [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences-events/past-event-archive/cse25) in the minisymposium on [Addressing intractability in optimal control](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81111). I am presenting recent ongoing work on ergodic control through interacting particle systems and generative modeling tools. 
+I am attending and presenting in the [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences-events/past-event-archive/cse25) in the minisymposium on [Addressing intractability in optimal control](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81111). I am presenting recent ongoing work on ergodic control through interacting particle systems and generative modeling tools.  -->
 
 <!-- 
 **January**
@@ -87,11 +105,11 @@ I will be attending the NITMB workshop on [Random Dynamical Systems, with Applic
 [News archive](https://benjzhang.github.io/news)
 
 
-
+<!-- 
 ## [APMA 1930Z: Introduction to Mathematical Machine Learning (Fall 2024)](https://benjzhang.github.io/apma1930z/)
 [<img align="right" width="300" src="https://benjzhang.github.io/files/ma590sta_poster.png" />](https://benjzhang.github.io/apma1930z/)
 I will be co-teaching APMA 1930Z at Brown University in Fall 2024. APMA 1930Z is the second iteration of [Math 590STA, first offered at UMass Amherst in Spring 2024](https://benjzhang.github.io/ma590sta/). We cover classical solutions to machine learning tasks such as regression, classification, and dimension reduction from fundamental mathematical concepts. 
-
+ -->
 
 
 <!-- **February**:
