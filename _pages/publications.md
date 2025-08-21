@@ -15,25 +15,32 @@ author_profile: true
 
 ## Preprints and submitted papers
 
+16. "Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems," (with Paul Dupuis), [arXiv:2505.23456](https://arxiv.org/abs/2505.23456).
+
+15. "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency," (with Kelvin Kan, Xingjian Li, Tuhin Sahai, Stanley Osher, and Markos Katsoulakis), [arXiv:2505.13499](https://arxiv.org/abs/2505.13499).
+
+14. "Proximal optimal transport divergences," (with Ricardo Baptista, Panagiota Birmpa, Markos Katsoulakis, and Luc Rey-Bellet), [arXiv:2505.12097](https://arxiv.org/abs/2505.12097).
+
 13. "Equivariant score-based generative models provably learn distributions with symmetries efficiently," (with Ziyu Chen and Markos Katsoulakis), [arXiv:2410.01244](https://arxiv.org/abs/2410.01244). 
 
 12. "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows," (with Hyemin Gu, Markos Katsoulakis, and Luc Rey-Bellet), [arXiv:2407:11901](https://arxiv.org/abs/2407.11901). 
 
-11. "Nonlinear denoising score matching for enhanced learning of structured distributions," (with Jeremiah Birrell, Markos Katsoulakis, Luc Rey-Bellet, and Wei Zhu), [arXiv:2405.15625](https://arxiv.org/abs/2405.15625).
 
-10. "Wasserstein proximal operators describe score-based generative models and resolve memorization," (with Siting Liu, Wuchen Li, Markos Katsoulakis, and Stanley Osher), [arXiv:2402.06162](https://arxiv.org/abs/2402.06162).
+11. "Wasserstein proximal operators describe score-based generative models and resolve memorization," (with Siting Liu, Wuchen Li, Markos Katsoulakis, and Stanley Osher), [arXiv:2402.06162](https://arxiv.org/abs/2402.06162).
 
-9. "A mean-field games laboratory for generative modeling," (with Markos Katsoulakis), [arXiv:2304.13534](https://arxiv.org/abs/2304.13534).
+10. "A mean-field games laboratory for generative modeling," (with Markos Katsoulakis), [arXiv:2304.13534](https://arxiv.org/abs/2304.13534).
 
-
-8. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
+9. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
 
 <!-- * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation. -->
 
 
 ## Journal articles
 
-7. "Transport map unadjusted Langevin algorithms: learning and discretizing perturbed samplers," (with Youssef Marzouk and Konstantinos Spiliopoulos), [arXiv:2302.07227](https://arxiv.org/abs/2302.07227). *Foundations of Data Science, accepted.* 
+8. "Nonlinear denoising score matching for enhanced learning of structured distributions," (with Jeremiah Birrell, Markos Katsoulakis, Luc Rey-Bellet, and Wei Zhu), [arXiv:2405.15625](https://arxiv.org/abs/2405.15625). *Computer Methods in Applied Mechanics and Engineering*
+
+
+7. "Transport map unadjusted Langevin algorithms: learning and discretizing perturbed samplers," (with Youssef Marzouk and Konstantinos Spiliopoulos), [arXiv:2302.07227](https://arxiv.org/abs/2302.07227). *Foundations of Data Science.* 
 
 
 6. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics," (with Youssef Marzouk and Konstantinos Spiliopoulos), *Statistics and Computing*, 32(5), 78, 2022. [Link](https://link.springer.com/article/10.1007/s11222-022-10147-6) [arXiv:2108.08247](https://arxiv.org/abs/2108.08247).

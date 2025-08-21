@@ -7,6 +7,9 @@ author_profile: true
 
 <!-- {% include base_path %}
  -->
+ ## At UNC Chapel Hill
+ ### DATA 140 -- Introduction to Data Structures and Data Management
+ * Instructor: Fall 2025
 
 ## At Brown University 
 ### APMA 1930Z -- Introduction to Mathematical Machine Learning
