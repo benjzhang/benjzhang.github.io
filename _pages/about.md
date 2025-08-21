@@ -46,9 +46,11 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 ## Recent News
 
 **August**
+
 I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate. 
 
 **July**
+
 Our paper [Nonlinear denoising score matching for enhanced learning of structured distributions](https://www.sciencedirect.com/science/article/pii/S0045782525004980) has been accepted to *Computer Methods in Applied Mechanics and Engineering* in their special issues on [Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering](https://www.sciencedirect.com/special-issue/109BSBSP137). 
 
 
