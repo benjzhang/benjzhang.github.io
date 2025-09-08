@@ -15,6 +15,9 @@ author_profile: true
 
 ## Preprints and submitted papers
 
+17. "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations," (with Siting Liu, Stanley Osher, and Markos Katsoulakis), [arXiv:2509.05186](https://arxiv.org/abs/2509.05186).
+
+
 16. "Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems," (with Paul Dupuis), [arXiv:2505.23456](https://arxiv.org/abs/2505.23456).
 
 15. "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency," (with Kelvin Kan, Xingjian Li, Tuhin Sahai, Stanley Osher, and Markos Katsoulakis), [arXiv:2505.13499](https://arxiv.org/abs/2505.13499).
