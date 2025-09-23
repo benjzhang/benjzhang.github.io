@@ -47,6 +47,9 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 **September**
 
+Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 
+
+
 New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
 
@@ -58,7 +61,7 @@ I have moved to the School of Data Science and Society at the University of Nort
 
 Our paper [Nonlinear denoising score matching for enhanced learning of structured distributions](https://www.sciencedirect.com/science/article/pii/S0045782525004980) has been accepted to *Computer Methods in Applied Mechanics and Engineering* in their special issues on [Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering](https://www.sciencedirect.com/special-issue/109BSBSP137). 
 
-
+<!-- 
 **May** 
 
 Three new preprints! 
@@ -69,7 +72,7 @@ In [Optimal control for Transformer architectures](https://arxiv.org/abs/2505.13
 
 In [Proximal optimal transport divergences](https://arxiv.org/abs/2505.12097), we introduce a new class of probability divergences based on the infimal convolution of divergences and optimal transport distances, including Wasserstein distances. These distances inherits the desirable properties of information divergences and transport distances, and we discuss how they are frequently unknowingly employed in generative modeling. This is joint work with [Panagiota Birmpa](https://sites.google.com/site/panagiotabirmpa/home), [Ricardo Baptista](https://www.ricardobaptista.com), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), and [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/). 
 
-
+ -->
 <!-- ## Upcoming Events
 
 **July**
