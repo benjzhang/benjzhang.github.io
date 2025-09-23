@@ -9,6 +9,9 @@ author_profile: true
 
 **September**
 
+Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 
+
+
 New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
 
