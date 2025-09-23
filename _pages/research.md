@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+Coming soon!
+
+<!--
+SAVED STRUCTURE FOR LATER - UNCOMMENT WHEN READY TO DEPLOY:
+
 <style>
   area {
     cursor: pointer;
@@ -17,34 +22,27 @@ My research focuses on developing mathematically principled approaches to genera
 
 Click on any area of the tree below to explore different aspects of my research:
 
-<!-- Clickable Tree Diagram -->
 <img src="/images/tree_website.png" alt="Research Tree" usemap="#research-tree" style="max-width: 100%; height: auto;">
 
 <map name="research-tree">
-  <!-- Principled Generative AI (main trunk) - stays on this page -->
   <area shape="rect" coords="580,295,1020,380" href="/research/" alt="Principled Generative AI">
 
-  <!-- Mathematical Foundations (bottom row) - all link to foundations page -->
   <area shape="rect" coords="590,395,980,490" href="/research/foundations/" alt="Mathematical Foundations">
   <area shape="rect" coords="100,515,390,595" href="/research/foundations/" alt="Mean-Field Games">
   <area shape="rect" coords="450,515,790,595" href="/research/foundations/" alt="Wasserstein Proximals">
   <area shape="rect" coords="860,515,1085,595" href="/research/foundations/" alt="PDE Analysis">
   <area shape="rect" coords="1190,515,1490,595" href="/research/foundations/" alt="Neural Architectures">
 
-  <!-- Theory-informed Models (left branch) - all link to models page -->
   <area shape="rect" coords="220,195,600,285" href="/research/models/" alt="Theory-informed Models">
   <area shape="rect" coords="35,110,400,190" href="/research/models/" alt="Manifold-learning Flows">
   <area shape="rect" coords="420,110,790,190" href="/research/models/" alt="Structure-informed Flows">
   <area shape="rect" coords="200,30,610,110" href="/research/models/" alt="Enhanced Diffusion Models">
 
-  <!-- Scientific ML (right branch) - all link to applications page -->
   <area shape="rect" coords="1065,195,1325,285" href="/research/applications/" alt="Scientific ML">
   <area shape="rect" coords="890,110,1200,190" href="/research/applications/" alt="Operator Learning">
   <area shape="rect" coords="1210,110,1520,190" href="/research/applications/" alt="Monte Carlo Methods">
   <area shape="rect" coords="1060,30,1320,110" href="/research/applications/" alt="Optimal Control">
 </map>
-
----
 
 ## Research Areas
 
@@ -66,3 +64,4 @@ Click on any area of the tree below to explore different aspects of my research:
 </div>
 
 </div>
+-->
