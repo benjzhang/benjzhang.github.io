@@ -57,7 +57,8 @@ State-of-the-art generative models learn to evolve samples from a simple referen
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong> and M.A. Katsoulakis (2023). "A mean-field games laboratory for generative modeling." arXiv:2304.13534. <a href="https://arxiv.org/abs/2304.13534" target="_blank">[arXiv]</a></li>
 <li style="margin-bottom: 8px;">• N. Mimikos-Stamatopoulos, <strong>B.J. Zhang</strong>, and M.A. Katsoulakis (2024). "Score-based generative models are provably robust: an uncertainty quantification perspective." <em>Advances in Neural Information Processing Systems</em>, 37:63154-63183.</li>
 <li style="margin-bottom: 8px;">• Z. Chen, M.A. Katsoulakis, and <strong>B.J. Zhang</strong> (2024). "Equivariant score-based generative models provably learn distributions with symmetries efficiently." arXiv:2410.01244. <a href="https://arxiv.org/abs/2410.01244" target="_blank">[arXiv]</a></li>
-<li>• R. Baptista, P. Birmpa, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong> (2025). "Proximal optimal transport divergences." arXiv:2505.12097. <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv]</a></li>
+<li style="margin-bottom: 8px;">• R. Baptista, P. Birmpa, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong> (2025). "Proximal optimal transport divergences." arXiv:2505.12097. <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv]</a></li>
+<li>• K. Kan, X. Li, <strong>B.J. Zhang</strong>, T. Sahai, S.J. Osher, and M.A. Katsoulakis (2025). "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency." To appear, <em>NeurIPS 2025</em>.</li>
 </ul>
 </div>
 </div>
@@ -73,8 +74,7 @@ The analyses provided by mean-field games, optimal transport, and information th
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
 <li style="margin-bottom: 8px;">• H. Gu, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong> (2024). "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows." arXiv:2407.11901. <a href="https://arxiv.org/abs/2407.11901" target="_blank">[arXiv]</a></li>
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, S. Liu, W. Li, M.A. Katsoulakis, and S.J. Osher (2024). "Wasserstein proximal operators describe score-based generative models and resolve memorization." arXiv:2402.06162. <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv]</a></li>
-<li style="margin-bottom: 8px;">• J. Birrell, M.A. Katsoulakis, L. Rey-Bellet, <strong>B.J. Zhang</strong>, and W. Zhu (2025). "Nonlinear denoising score matching for enhanced learning of structured distributions." <em>Computer Methods in Applied Mechanics and Engineering</em>, 446:118226.</li>
-<li>• K. Kan, X. Li, <strong>B.J. Zhang</strong>, T. Sahai, S.J. Osher, and M.A. Katsoulakis (2025). "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency." To appear, <em>NeurIPS 2025</em>.</li>
+<li>• J. Birrell, M.A. Katsoulakis, L. Rey-Bellet, <strong>B.J. Zhang</strong>, and W. Zhu (2025). "Nonlinear denoising score matching for enhanced learning of structured distributions." <em>Computer Methods in Applied Mechanics and Engineering</em>, 446:118226.</li>
 </ul>
 </div>
 </div>
