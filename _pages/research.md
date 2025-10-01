@@ -47,35 +47,56 @@ Click on any area of the tree below to explore different aspects of my research:
 
 ### Mathematical Principles of Generative AI: Foundations and Analysis
 
-State-of-the-art generative models learn to evolve samples from a simple reference to complex target distributions through differential equations trained on finite example datasets (e.g., images, molecules). Understanding their mathematical foundations is critical for *reliable* downstream scientific applications. In my work *A mean-field games laboratory for generative modeling*, I show how **mean-field games** (MFGs) provide foundational mathematical principles for major classes of generative flows through PDEs. This mathematical foundation enables PDE-based analysis, yielding insights on data efficiency, training behavior, and approximation guarantees. My recent work on **Wasserstein proximal operators** reveals a deeper principle: robust generative flows compute so-called *proximal optimal transport divergences* — measures of discrepancy between probability distributions that interpolate between classical divergences and transport distances. The MFG provides a computable instantiation of this broader framework.
-
-**Related publications:**
-- **B.J. Zhang** and M.A. Katsoulakis. "A mean-field games laboratory for generative modeling." arXiv preprint arXiv:2304.13534, 2023. [[arXiv](https://arxiv.org/abs/2304.13534)]
-- N. Mimikos-Stamatopoulos, **B.J. Zhang**, and M.A. Katsoulakis. "Score-based generative models are provably robust: an uncertainty quantification perspective." *Advances in Neural Information Processing Systems*, 37:63154-63183, 2024.
-- Z. Chen, M.A. Katsoulakis, and **B.J. Zhang**. "Equivariant score-based generative models provably learn distributions with symmetries efficiently." arXiv preprint arXiv:2410.01244, 2024. [[arXiv](https://arxiv.org/abs/2410.01244)]
-- R. Baptista, P. Birmpa, M.A. Katsoulakis, L. Rey-Bellet, and **B.J. Zhang**. "Proximal optimal transport divergences." arXiv preprint arXiv:2505.12097, 2025. [[arXiv](https://arxiv.org/abs/2505.12097)]
-- **B.J. Zhang**, S. Liu, W. Li, M.A. Katsoulakis, and S.J. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." arXiv preprint arXiv:2402.06162, 2024. [[arXiv](https://arxiv.org/abs/2402.06162)]
+<div style="display: flex; gap: 30px; align-items: start;">
+<div style="flex: 2;">
+State-of-the-art generative models learn to evolve samples from a simple reference to complex target distributions through differential equations trained on finite example datasets (e.g., images, molecules). Understanding their mathematical foundations is critical for <em>reliable</em> downstream scientific applications. In my work <em>A mean-field games laboratory for generative modeling</em>, I show how <strong>mean-field games</strong> (MFGs) provide foundational mathematical principles for major classes of generative flows through PDEs. This mathematical foundation enables PDE-based analysis, yielding insights on data efficiency, training behavior, and approximation guarantees. My recent work on <strong>Wasserstein proximal operators</strong> reveals a deeper principle: robust generative flows compute so-called <em>proximal optimal transport divergences</em> — measures of discrepancy between probability distributions that interpolate between classical divergences and transport distances. The MFG provides a computable instantiation of this broader framework.
+</div>
+<div style="flex: 1; padding-left: 20px;">
+<p style="font-size: 0.9em; color: #555; margin-top: 0; margin-bottom: 10px;"><strong>Related publications:</strong></p>
+<ul style="font-size: 0.85em; line-height: 1.5; list-style: none; padding: 0; margin: 0; color: #555;">
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> and M.A. Katsoulakis (2023). "A mean-field games laboratory for generative modeling." <a href="https://arxiv.org/abs/2304.13534" target="_blank">[arXiv]</a></li>
+<li style="margin-bottom: 10px;">• N. Mimikos-Stamatopoulos, <strong>B.J. Zhang</strong>, and M.A. Katsoulakis (2024). "Score-based generative models are provably robust." <em>NeurIPS</em>.</li>
+<li style="margin-bottom: 10px;">• Z. Chen et al. (2024). "Equivariant score-based generative models." <a href="https://arxiv.org/abs/2410.01244" target="_blank">[arXiv]</a></li>
+<li style="margin-bottom: 10px;">• R. Baptista et al. (2025). "Proximal optimal transport divergences." <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv]</a></li>
+<li>• <strong>B.J. Zhang</strong> et al. (2024). "Wasserstein proximal operators." <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv]</a></li>
+</ul>
+</div>
+</div>
 
 ### Mathematically-Informed Generative Modeling Methodology
 
-The analyses provided by mean-field games, optimal transport, and information theory reveal mathematical *structure* which I have used to develop new mathematically-informed generative flows. These flows can be trained faster, more robustly, and with less data. My work demonstrates that well-posed formulations lead to robust generative models for learning distributions on low-dimensional manifolds, overcoming issues in training stability that arise from low-dimensional data and choices in model parametrization. Additionally, I have developed structure-preserving generative models that incorporate symmetries and prior knowledge, which enable more efficient learning of structured distributions. This theory-driven approach shows how understanding mathematical principles translates to practical improvements in generative modeling performance.
-
-**Related publications:**
-- H. Gu, M.A. Katsoulakis, L. Rey-Bellet, and **B.J. Zhang**. "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows." arXiv preprint arXiv:2407.11901, 2024. [[arXiv](https://arxiv.org/abs/2407.11901)]
-- J. Birrell, M.A. Katsoulakis, L. Rey-Bellet, **B.J. Zhang**, and W. Zhu. "Nonlinear denoising score matching for enhanced learning of structured distributions." *Computer Methods in Applied Mechanics and Engineering*, 446:118226, 2025.
-- K. Kan, X. Li, **B.J. Zhang**, T. Sahai, S.J. Osher, and M.A. Katsoulakis. "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency." To appear, NeurIPS 2025.
+<div style="display: flex; gap: 30px; align-items: start;">
+<div style="flex: 2;">
+The analyses provided by mean-field games, optimal transport, and information theory reveal mathematical <em>structure</em> which I have used to develop new mathematically-informed generative flows. These flows can be trained faster, more robustly, and with less data. My work demonstrates that well-posed formulations lead to robust generative models for learning distributions on low-dimensional manifolds, overcoming issues in training stability that arise from low-dimensional data and choices in model parametrization. Additionally, I have developed structure-preserving generative models that incorporate symmetries and prior knowledge, which enable more efficient learning of structured distributions. This theory-driven approach shows how understanding mathematical principles translates to practical improvements in generative modeling performance.
+</div>
+<div style="flex: 1; padding-left: 20px;">
+<p style="font-size: 0.9em; color: #555; margin-top: 0; margin-bottom: 10px;"><strong>Related publications:</strong></p>
+<ul style="font-size: 0.85em; line-height: 1.5; list-style: none; padding: 0; margin: 0; color: #555;">
+<li style="margin-bottom: 10px;">• H. Gu et al. (2024). "Combining Wasserstein-1 and Wasserstein-2 proximals." <a href="https://arxiv.org/abs/2407.11901" target="_blank">[arXiv]</a></li>
+<li style="margin-bottom: 10px;">• J. Birrell et al. (2025). "Nonlinear denoising score matching." <em>CMAME</em>.</li>
+<li>• K. Kan et al. (2025). "Optimal Control for Transformer Architectures." <em>NeurIPS 2025</em>.</li>
+</ul>
+</div>
+</div>
 
 ### Principled Generative Approaches to Scientific Machine Learning
 
-My mathematically principled generative approaches enable new solutions to problems in scientific computing. One recent focus is a **generative perspective for operator learning**. Operator learning involves training statistical models to approximate solution operators of ordinary and partial differential equations, forming the basis for their *foundation models*. A major gap in ML-based operator learning methods is their *lack of trustworthiness* compared to traditional model-order reduction methods. My research addresses this by establishing a probabilistic framework for operator learning that provides uncertainty quantification for these methods. Additionally, I use connections between generative AI and control theory to address the curse of dimensionality in high-dimensional scientific computing problems, developing generative approaches for rare event simulation, sampling methods for Bayesian inference, and optimal control.
-
-**Related publications:**
-- **B.J. Zhang**, S. Liu, S.J. Osher, and M.A. Katsoulakis. "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations." arXiv preprint arXiv:2509.05186, 2025. [[arXiv](https://arxiv.org/abs/2509.05186)]
-- **B.J. Zhang**, T. Sahai, and Y.M. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." *Journal of Computational Physics*, 456:111025, 2022.
-- **B.J. Zhang**, Y.M. Marzouk, and K. Spiliopoulos. "Transport map unadjusted Langevin algorithms: Learning and discretizing perturbed samplers." *Foundations of Data Science*, 7(3):705-736, 2025.
-- **B.J. Zhang**, Y.M. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." *Statistics and Computing*, 32(5):78, 2022.
-- **B.J. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." I (Still) Can't Believe It's Not Better! NeurIPS 2021 Workshop.
-- P. Dupuis and **B.J. Zhang**. "Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems." arXiv preprint arXiv:2505.23456, 2025. [[arXiv](https://arxiv.org/abs/2505.23456)]
+<div style="display: flex; gap: 30px; align-items: start;">
+<div style="flex: 2;">
+My mathematically principled generative approaches enable new solutions to problems in scientific computing. One recent focus is a <strong>generative perspective for operator learning</strong>. Operator learning involves training statistical models to approximate solution operators of ordinary and partial differential equations, forming the basis for their <em>foundation models</em>. A major gap in ML-based operator learning methods is their <em>lack of trustworthiness</em> compared to traditional model-order reduction methods. My research addresses this by establishing a probabilistic framework for operator learning that provides uncertainty quantification for these methods. Additionally, I use connections between generative AI and control theory to address the curse of dimensionality in high-dimensional scientific computing problems, developing generative approaches for rare event simulation, sampling methods for Bayesian inference, and optimal control.
+</div>
+<div style="flex: 1; padding-left: 20px;">
+<p style="font-size: 0.9em; color: #555; margin-top: 0; margin-bottom: 10px;"><strong>Related publications:</strong></p>
+<ul style="font-size: 0.85em; line-height: 1.5; list-style: none; padding: 0; margin: 0; color: #555;">
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> et al. (2025). "Probabilistic operator learning." <a href="https://arxiv.org/abs/2509.05186" target="_blank">[arXiv]</a></li>
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> et al. (2022). "Koopman framework for rare event simulation." <em>JCP</em>.</li>
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> et al. (2025). "Transport map unadjusted Langevin algorithms." <em>FoDS</em>.</li>
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> et al. (2022). "Geometry-informed irreversible perturbations." <em>Stat. Comput.</em></li>
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> et al. (2021). "Sampling via controlled stochastic dynamical systems." <em>NeurIPS Workshop</em>.</li>
+<li>• P. Dupuis and <strong>B.J. Zhang</strong> (2025). "Particle exchange Monte Carlo methods." <a href="https://arxiv.org/abs/2505.23456" target="_blank">[arXiv]</a></li>
+</ul>
+</div>
+</div>
 
 
 ---
