@@ -57,8 +57,7 @@ State-of-the-art generative models learn to evolve samples from a simple referen
 <li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> and M.A. Katsoulakis (2023). "A mean-field games laboratory for generative modeling." <a href="https://arxiv.org/abs/2304.13534" target="_blank">[arXiv]</a></li>
 <li style="margin-bottom: 10px;">• N. Mimikos-Stamatopoulos, <strong>B.J. Zhang</strong>, and M.A. Katsoulakis (2024). "Score-based generative models are provably robust." <em>NeurIPS</em>.</li>
 <li style="margin-bottom: 10px;">• Z. Chen et al. (2024). "Equivariant score-based generative models." <a href="https://arxiv.org/abs/2410.01244" target="_blank">[arXiv]</a></li>
-<li style="margin-bottom: 10px;">• R. Baptista et al. (2025). "Proximal optimal transport divergences." <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv]</a></li>
-<li>• <strong>B.J. Zhang</strong> et al. (2024). "Wasserstein proximal operators." <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv]</a></li>
+<li>• R. Baptista et al. (2025). "Proximal optimal transport divergences." <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv]</a></li>
 </ul>
 </div>
 </div>
@@ -73,6 +72,7 @@ The analyses provided by mean-field games, optimal transport, and information th
 <p style="font-size: 0.9em; color: #555; margin-top: 0; margin-bottom: 10px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.85em; line-height: 1.5; list-style: none; padding: 0; margin: 0; color: #555;">
 <li style="margin-bottom: 10px;">• H. Gu et al. (2024). "Combining Wasserstein-1 and Wasserstein-2 proximals." <a href="https://arxiv.org/abs/2407.11901" target="_blank">[arXiv]</a></li>
+<li style="margin-bottom: 10px;">• <strong>B.J. Zhang</strong> et al. (2024). "Wasserstein proximal operators." <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv]</a></li>
 <li style="margin-bottom: 10px;">• J. Birrell et al. (2025). "Nonlinear denoising score matching." <em>CMAME</em>.</li>
 <li>• K. Kan et al. (2025). "Optimal Control for Transformer Architectures." <em>NeurIPS 2025</em>.</li>
 </ul>
