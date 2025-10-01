@@ -15,7 +15,7 @@ author_profile: true
 
 I am an applied and computational mathematician with research interests in establishing the mathematical foundations of machine learning (ML) methods and their application in scientific computing. My research program offers new frameworks for **understanding** ML methods through established mathematical disciplines, **enhancing and innovating** methods based on those insights, and **principled application** to scientific computing problems.
 
-My recent work centers **generative artificial intelligence** (AI) through **partial differential equations** (PDEs) arising from **mathematical control theory** and **optimal transport**. This perspective extends from deep learning architectures to scientific computing applications, leading to methodological improvements and analysis that yield a deeper understanding of state-of-the-art generative flow algorithms. Simultaneously, my study of generative AI produces algorithms for **trustworthy scientific machine learning**. In particular, my ideas for robust generative modeling enable probabilistic foundations for **operator learning**, grounding foundation models for differential equations in this framework and providing **uncertainty quantification** (UQ). UQ is a recurring theme in my research program, which provides tools for obtaining statistical guarantees, understanding stability of algorithms, and confidence in generative algorithms.
+My recent work focuses on **generative artificial intelligence** (AI) through the lens of **partial differential equations** (PDEs) arising from **mathematical control theory** and **optimal transport**. This perspective extends from deep learning architectures to scientific computing applications, leading to methodological improvements and analysis that yield a deeper understanding of state-of-the-art generative flow algorithms. Simultaneously, my study of generative AI produces algorithms for **trustworthy scientific machine learning**. In particular, my work on robust generative modeling for differential equations enables probabilistic foundations for **operator learning**, grounding foundation models for differential equations in this framework and providing **uncertainty quantification** (UQ). UQ is a recurring theme in my research program, which provides tools for obtaining statistical guarantees, understanding stability of algorithms, and confidence in generative algorithms.
 
 ## Research Tree
 
@@ -54,11 +54,11 @@ State-of-the-art generative models learn to evolve samples from a simple referen
 <div style="flex: 1; padding-left: 20px;">
 <p style="font-size: 0.85em; color: #555; margin-top: -5px; margin-bottom: 8px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
-<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong> and M.A. Katsoulakis. "A mean-field games laboratory for generative modeling." 2023. <a href="https://arxiv.org/abs/2304.13534" target="_blank">[arXiv:2304.13534]</a></li>
 <li style="margin-bottom: 8px;">• N. Mimikos-Stamatopoulos, <strong>B.J. Zhang</strong>, and M.A. Katsoulakis. "Score-based generative models are provably robust: an uncertainty quantification perspective." <em>NeurIPS</em> 2024. <a href="https://arxiv.org/abs/2405.15754" target="_blank">[arXiv:2405.15754]</a></li>
+<li style="margin-bottom: 8px;">• K. Kan, X. Li, <strong>B.J. Zhang</strong>, T. Sahai, S.J. Osher, and M.A. Katsoulakis. "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency." <em>NeurIPS</em> 2025. <a href="https://arxiv.org/abs/2505.13499" target="_blank">[arXiv:2505.13499]</a></li>
+<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong> and M.A. Katsoulakis. "A mean-field games laboratory for generative modeling." 2023. <a href="https://arxiv.org/abs/2304.13534" target="_blank">[arXiv:2304.13534]</a></li>
 <li style="margin-bottom: 8px;">• Z. Chen, M.A. Katsoulakis, and <strong>B.J. Zhang</strong>. "Equivariant score-based generative models provably learn distributions with symmetries efficiently." 2024. <a href="https://arxiv.org/abs/2410.01244" target="_blank">[arXiv:2410.01244]</a></li>
-<li style="margin-bottom: 8px;">• R. Baptista, P. Birmpa, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong>. "Proximal optimal transport divergences." 2025. <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv:2505.12097]</a></li>
-<li>• K. Kan, X. Li, <strong>B.J. Zhang</strong>, T. Sahai, S.J. Osher, and M.A. Katsoulakis. "Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency." <em>NeurIPS</em> 2025. <a href="https://arxiv.org/abs/2505.13499" target="_blank">[arXiv:2505.13499]</a></li>
+<li>• R. Baptista, P. Birmpa, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong>. "Proximal optimal transport divergences." 2025. <a href="https://arxiv.org/abs/2505.12097" target="_blank">[arXiv:2505.12097]</a></li>
 </ul>
 </div>
 </div>
@@ -72,9 +72,9 @@ The analyses provided by mean-field games, optimal transport, and information th
 <div style="flex: 1; padding-left: 20px;">
 <p style="font-size: 0.85em; color: #555; margin-top: -5px; margin-bottom: 8px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
+<li style="margin-bottom: 8px;">• J. Birrell, M.A. Katsoulakis, L. Rey-Bellet, <strong>B.J. Zhang</strong>, and W. Zhu. "Nonlinear denoising score matching for enhanced learning of structured distributions." <em>Computer Methods in Applied Mechanics and Engineering</em> 2025. <a href="https://arxiv.org/abs/2405.15625" target="_blank">[arXiv:2405.15625]</a></li>
 <li style="margin-bottom: 8px;">• H. Gu, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong>. "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows." 2024. <a href="https://arxiv.org/abs/2407.11901" target="_blank">[arXiv:2407.11901]</a></li>
-<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, S. Liu, W. Li, M.A. Katsoulakis, and S.J. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." 2024. <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv:2402.06162]</a></li>
-<li>• J. Birrell, M.A. Katsoulakis, L. Rey-Bellet, <strong>B.J. Zhang</strong>, and W. Zhu. "Nonlinear denoising score matching for enhanced learning of structured distributions." <em>Computer Methods in Applied Mechanics and Engineering</em> 2025. <a href="https://arxiv.org/abs/2405.15625" target="_blank">[arXiv:2405.15625]</a></li>
+<li>• <strong>B.J. Zhang</strong>, S. Liu, W. Li, M.A. Katsoulakis, and S.J. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." 2024. <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv:2402.06162]</a></li>
 </ul>
 </div>
 </div>
@@ -88,11 +88,11 @@ My mathematically principled generative approaches enable new solutions to probl
 <div style="flex: 1; padding-left: 20px;">
 <p style="font-size: 0.85em; color: #555; margin-top: -5px; margin-bottom: 8px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
-<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, S. Liu, S.J. Osher, and M.A. Katsoulakis. "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations." 2025. <a href="https://arxiv.org/abs/2509.05186" target="_blank">[arXiv:2509.05186]</a></li>
-<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, T. Sahai, and Y.M. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." <em>Journal of Computational Physics</em> 2022. <a href="https://arxiv.org/abs/2101.07330" target="_blank">[arXiv:2101.07330]</a></li>
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, Y.M. Marzouk, and K. Spiliopoulos. "Transport map unadjusted Langevin algorithms: Learning and discretizing perturbed samplers." <em>Foundations of Data Science</em> 2025. <a href="https://arxiv.org/abs/2302.07227" target="_blank">[arXiv:2302.07227]</a></li>
+<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, T. Sahai, and Y.M. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." <em>Journal of Computational Physics</em> 2022. <a href="https://arxiv.org/abs/2101.07330" target="_blank">[arXiv:2101.07330]</a></li>
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, Y.M. Marzouk, and K. Spiliopoulos. "Geometry-informed irreversible perturbations for accelerated convergence of Langevin dynamics." <em>Statistics and Computing</em> 2022. <a href="https://arxiv.org/abs/2108.08247" target="_blank">[arXiv:2108.08247]</a></li>
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." <em>NeurIPS Workshop</em> 2021.</li>
+<li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, S. Liu, S.J. Osher, and M.A. Katsoulakis. "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations." 2025. <a href="https://arxiv.org/abs/2509.05186" target="_blank">[arXiv:2509.05186]</a></li>
 <li>• P. Dupuis and <strong>B.J. Zhang</strong>. "Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems." 2025. <a href="https://arxiv.org/abs/2505.23456" target="_blank">[arXiv:2505.23456]</a></li>
 </ul>
 </div>
