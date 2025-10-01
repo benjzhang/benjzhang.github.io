@@ -19,7 +19,7 @@ My recent work centers **generative artificial intelligence** (AI) through **par
 
 ## Research Tree
 
-Click on any area of the tree below to explore different aspects of my research:
+Principled generative AI rooted in mathematical foundations enables improved theory-informed models and trustworthy application in scientific computing.
 
 <img src="/images/tree_website.png" alt="Research Tree" usemap="#research-tree" style="max-width: 100%; height: auto;">
 
@@ -43,16 +43,16 @@ Click on any area of the tree below to explore different aspects of my research:
   <area shape="rect" coords="1060,30,1320,110" alt="Optimal Control">
 </map>
 
-## Research Program
+## Research Themes
 
 ### Mathematical Principles of Generative AI: Foundations and Analysis
 
-<div style="display: flex; gap: 30px; align-items: start;">
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 <div style="flex: 2;">
 State-of-the-art generative models learn to evolve samples from a simple reference to complex target distributions through differential equations trained on finite example datasets (e.g., images, molecules). Understanding their mathematical foundations is critical for <em>reliable</em> downstream scientific applications. In my work <em>A mean-field games laboratory for generative modeling</em>, I show how <strong>mean-field games</strong> (MFGs) provide foundational mathematical principles for major classes of generative flows through PDEs. This mathematical foundation enables PDE-based analysis, yielding insights on data efficiency, training behavior, and approximation guarantees. My recent work on <strong>Wasserstein proximal operators</strong> reveals a deeper principle: robust generative flows compute so-called <em>proximal optimal transport divergences</em> — measures of discrepancy between probability distributions that interpolate between classical divergences and transport distances. The MFG provides a computable instantiation of this broader framework.
 </div>
 <div style="flex: 1; padding-left: 20px;">
-<p style="font-size: 0.85em; color: #555; margin-top: 0; margin-bottom: 8px;"><strong>Related publications:</strong></p>
+<p style="font-size: 0.85em; color: #555; margin-top: -5px; margin-bottom: 8px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong> and M.A. Katsoulakis. "A mean-field games laboratory for generative modeling." 2023. <a href="https://arxiv.org/abs/2304.13534" target="_blank">[arXiv:2304.13534]</a></li>
 <li style="margin-bottom: 8px;">• N. Mimikos-Stamatopoulos, <strong>B.J. Zhang</strong>, and M.A. Katsoulakis. "Score-based generative models are provably robust: an uncertainty quantification perspective." <em>NeurIPS</em> 2024. <a href="https://arxiv.org/abs/2405.15754" target="_blank">[arXiv:2405.15754]</a></li>
@@ -65,12 +65,12 @@ State-of-the-art generative models learn to evolve samples from a simple referen
 
 ### Mathematically-Informed Generative Modeling Methodology
 
-<div style="display: flex; gap: 30px; align-items: start;">
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 <div style="flex: 2;">
 The analyses provided by mean-field games, optimal transport, and information theory reveal mathematical <em>structure</em> which I have used to develop new mathematically-informed generative flows. These flows can be trained faster, more robustly, and with less data. My work demonstrates that well-posed formulations lead to robust generative models for learning distributions on low-dimensional manifolds, overcoming issues in training stability that arise from low-dimensional data and choices in model parametrization. Additionally, I have developed structure-preserving generative models that incorporate symmetries and prior knowledge, which enable more efficient learning of structured distributions. This theory-driven approach shows how understanding mathematical principles translates to practical improvements in generative modeling performance.
 </div>
 <div style="flex: 1; padding-left: 20px;">
-<p style="font-size: 0.85em; color: #555; margin-top: 0; margin-bottom: 8px;"><strong>Related publications:</strong></p>
+<p style="font-size: 0.85em; color: #555; margin-top: -5px; margin-bottom: 8px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
 <li style="margin-bottom: 8px;">• H. Gu, M.A. Katsoulakis, L. Rey-Bellet, and <strong>B.J. Zhang</strong>. "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows." 2024. <a href="https://arxiv.org/abs/2407.11901" target="_blank">[arXiv:2407.11901]</a></li>
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, S. Liu, W. Li, M.A. Katsoulakis, and S.J. Osher. "Wasserstein proximal operators describe score-based generative models and resolve memorization." 2024. <a href="https://arxiv.org/abs/2402.06162" target="_blank">[arXiv:2402.06162]</a></li>
@@ -81,12 +81,12 @@ The analyses provided by mean-field games, optimal transport, and information th
 
 ### Principled Generative Approaches to Scientific Machine Learning
 
-<div style="display: flex; gap: 30px; align-items: start;">
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 <div style="flex: 2;">
 My mathematically principled generative approaches enable new solutions to problems in scientific computing. One recent focus is a <strong>generative perspective for operator learning</strong>. Operator learning involves training statistical models to approximate solution operators of ordinary and partial differential equations, forming the basis for their <em>foundation models</em>. A major gap in ML-based operator learning methods is their <em>lack of trustworthiness</em> compared to traditional model-order reduction methods. My research addresses this by establishing a probabilistic framework for operator learning that provides uncertainty quantification for these methods. Additionally, I use connections between generative AI and control theory to address the curse of dimensionality in high-dimensional scientific computing problems, developing generative approaches for rare event simulation, sampling methods for Bayesian inference, and optimal control.
 </div>
 <div style="flex: 1; padding-left: 20px;">
-<p style="font-size: 0.85em; color: #555; margin-top: 0; margin-bottom: 8px;"><strong>Related publications:</strong></p>
+<p style="font-size: 0.85em; color: #555; margin-top: -5px; margin-bottom: 8px;"><strong>Related publications:</strong></p>
 <ul style="font-size: 0.75em; line-height: 1.4; list-style: none; padding: 0; margin: 0; color: #666;">
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, S. Liu, S.J. Osher, and M.A. Katsoulakis. "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations." 2025. <a href="https://arxiv.org/abs/2509.05186" target="_blank">[arXiv:2509.05186]</a></li>
 <li style="margin-bottom: 8px;">• <strong>B.J. Zhang</strong>, T. Sahai, and Y.M. Marzouk. "A Koopman framework for rare event simulation in stochastic differential equations." <em>Journal of Computational Physics</em> 2022. <a href="https://arxiv.org/abs/2101.07330" target="_blank">[arXiv:2101.07330]</a></li>
