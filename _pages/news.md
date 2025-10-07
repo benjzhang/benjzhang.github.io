@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2025
 
+**October**
+I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University. 
+
+
 **September**
 
 Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 

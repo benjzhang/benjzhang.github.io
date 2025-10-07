@@ -47,6 +47,9 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent News
 
+**October**
+I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University. 
+
 **September**
 
 Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 
@@ -59,9 +62,9 @@ New preprint on applications of generative modeling to operator learning! In [Pr
 
 I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate. 
 
-**July**
+<!-- **July**
 
-Our paper [Nonlinear denoising score matching for enhanced learning of structured distributions](https://www.sciencedirect.com/science/article/pii/S0045782525004980) has been accepted to *Computer Methods in Applied Mechanics and Engineering* in their special issues on [Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering](https://www.sciencedirect.com/special-issue/109BSBSP137). 
+Our paper [Nonlinear denoising score matching for enhanced learning of structured distributions](https://www.sciencedirect.com/science/article/pii/S0045782525004980) has been accepted to *Computer Methods in Applied Mechanics and Engineering* in their special issues on [Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering](https://www.sciencedirect.com/special-issue/109BSBSP137).  -->
 
 <!-- 
 **May** 
