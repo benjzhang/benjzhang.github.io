@@ -16,6 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 ## Invited talks
+* Particle exchange Monte Carlo methods for eigenfunction and related nonlinear problems. Stochastic Analysis seminar, Department of Operations Research and Financial Engineering, Princeton University, Oct 1, 2025. 
+
+* *Probabilistic operator learning: generative modeling and uncertainty quantification for in-context operator learning.* Sampling, Inference, and Data-Driven Physical Modeling in Scientific Machine Learning, Institute for Pure and Applied Mathematics (IPAM), UCLA, Jul 14-18, 2025. 
+
+* *Generative artificial intelligence by and for high-dimensional control.* Advanced Concepts Office, NASA Marshall Space Flight Center, June 8, 2025. 
+
+* *A mean-field games laboratory for analysis and innovation in generative modeling.* Department of Applied and Computational Mathematics and Statistics Colloquium, University of Notre Dame, December 9, 2024.
+
 * *A mean-field games laboratory for analysis and innovation in generative modeling.* Department of Computational Applied Mathematics and Operations Research Colloquium Series, Rice University, December 2, 2024.
 * *A primer on applied stochastic differential equations.* NITMB Workshop on Random Dynamical Systems, with Applications in Biology, Chicago, IL, November 7, 2024.
 * *A mean-field games laboratory for generative modeling.* Probability Seminar, Division of Applied Mathematics, Brown University, December 12, 2023.
