@@ -58,7 +58,7 @@ Data Science and Statistics Seminar, Department of Mathematics, University of Te
 **March**
 SIAM conference on Uncertainty Quantification 2026
 
-Computational and Applied Mathematics Seminar, School of Mathematical and Statistical Sciences, Arizona State University, March 16, 2026
+[Computational and Applied Mathematics Seminar](https://math.asu.edu/node/10501), School of Mathematical and Statistical Sciences, Arizona State University, March 16, 2026
 
 **December**
 [Virtual Analysis and PDE Seminar](https://sites.google.com/view/vapseminar/home), December 11, 2025. 
@@ -66,7 +66,7 @@ Computational and Applied Mathematics Seminar, School of Mathematical and Statis
 **November**
 Colloquium, Department of Mathematics, Louisiana State University, November 20, 2025. 
 
-Computational and Applied Mathematics Seminar, Department of Mathematics, Rutgers University, November 18, 2025. 
+[Special Colloquium](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/eventdetail/23163/133/a-mean-field-games-laboratory-for-generative-artificial-intelligence-from-foundations-to-applications-in-scientific-computing), Department of Mathematics, Rutgers University, November 18, 2025. 
 
 <!-- **July**
 
