@@ -7,13 +7,19 @@ author_profile: true
 
 ## 2025
 
+**November**
+I gave a colloquium talk in the Department of Mathematics at the Louisiana State University. 
+
+I spoke in the [Applied and Computational Mathematics Seminar]() in the Department of Mathematics at Rutgers University. 
+
+
 **October**
 I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University. 
 
 
 **September**
 
-Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 
+Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2025 through the Main Track! 
 
 
 New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 

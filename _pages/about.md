@@ -8,24 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [School of Data Science and Society](https://datascience.unc.edu) at the [University of North Carolina at Chapel Hill](https://www.unc.edu) working with [Amarjit Budhiraja](https://abudhiraja.web.unc.edu). My research topics lie broadly in the intersections of **mathematics of machine learning,** **mathematical control theory,** and **Bayesian computation**.  
+I am a postdoctoral research associate in the [School of Data Science and Society](https://datascience.unc.edu) at the [University of North Carolina at Chapel Hill](https://www.unc.edu) working with [Amarjit Budhiraja](https://abudhiraja.web.unc.edu). My research interests lie broadly in the intersections of **mathematics of generative machine learning,** **mathematical control theory,** and **Bayesian computation**.  
+
+I will be joining the Department of Mathematics at Rutgers University as an Assistant Professor in Fall 2026.
 
 I was previously a postdoctoral research associate between the [Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu) and the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at [UMass Amherst](https://www.umass.edu) with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).
 
-
-<!-- I was previously a postdoctoral research associate in the [Department of Mathematics and Statistics](https://www.math.umass.edu) at [UMass Amherst](https://www.umass.edu) working with [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).  -->
-
-
 <!-- My research interests lie broadly in the **mathematics of machine learning** for analyzing and developing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. Conversely, I also develop theoretically well-grounded methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative machine learning.  -->
-
-
-
-<!-- My research lies at the intersection of **computational statistics** and **computational dynamics**. I enjoy studying how these two fields interact with and complement each other for predictive modeling and uncertainty quantification.  -->
-
-<!-- My current research interests include **mathematics of generative modeling**, **rare event simulation for dynamical systems**, and **sampling methods for Bayesian computation**.  -->
-
-<!-- My current interests include **rare event simulation for dynamical systems** and novel **sampling methods for Bayesian computation**. 
- -->
 
 I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems.
 
@@ -47,8 +36,8 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 
 ## Recent News
 
-**October**
-I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University. 
+<!-- **October**
+I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University.  -->
 
 **September**
 
@@ -58,9 +47,26 @@ Happy to announce that our paper [Optimal Control for Transformer Architectures:
 New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
 
 
-**August**
+<!-- **August**
 
-I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate. 
+I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate.  -->
+
+## Recent and upcoming events
+**April**
+Data Science and Statistics Seminar, Department of Mathematics, University of Tennessee, Knoxville. April 9, 2026. 
+
+**March**
+SIAM conference on Uncertainty Quantification 2026
+
+Computational and Applied Mathematics Seminar, School of Mathematical and Statistical Sciences, Arizona State University, March 16, 2026
+
+**December**
+[Virtual Analysis and PDE Seminar](https://sites.google.com/view/vapseminar/home), December 11, 2025. 
+
+**November**
+Colloquium, Department of Mathematics, Louisiana State University, November 20, 2025. 
+
+Computational and Applied Mathematics Seminar, Department of Mathematics, Rutgers University, November 18, 2025. 
 
 <!-- **July**
 
