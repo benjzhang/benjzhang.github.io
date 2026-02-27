@@ -34,9 +34,9 @@ Join us for MATH 590STA, an introduction to mathematical machine learning! We wi
 I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar) seminar, along with [Hyemin Gu](https://hyemingu.github.io). This is an internal seminar at UMass Amherst where graduate students and postdocs discuss latest developments in machine learning and data science through reading groups and tutorials. It is also a venue for students to present their research. Please contact us if you wish to participate in the group!  -->
 
 
-<div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+<div style="display: flex; gap: 2rem; flex-wrap: wrap;" markdown="1">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;" markdown="1">
 
 ## Recent News
 
@@ -69,7 +69,7 @@ I have moved to the School of Data Science and Society at the University of Nort
 
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;" markdown="1">
 
 ## Recent and upcoming events
 
