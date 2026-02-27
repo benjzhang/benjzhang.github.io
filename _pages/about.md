@@ -41,7 +41,7 @@ I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.e
 
 **February**
 
-Our paper [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162 has been accepted to the *SIAM Journal on Mathematics of Data Science*!
+Our paper [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162) has been accepted to the *SIAM Journal on Mathematics of Data Science*!
 
 **November**
 
