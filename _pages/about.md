@@ -34,6 +34,10 @@ Join us for MATH 590STA, an introduction to mathematical machine learning! We wi
 I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathematics-statistics/seminars/learning-learning-seminar) seminar, along with [Hyemin Gu](https://hyemingu.github.io). This is an internal seminar at UMass Amherst where graduate students and postdocs discuss latest developments in machine learning and data science through reading groups and tutorials. It is also a venue for students to present their research. Please contact us if you wish to participate in the group!  -->
 
 
+<div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 300px;">
+
 ## Recent News
 
 <!-- **October**
@@ -53,7 +57,7 @@ New preprint on transformer architectures: In [Stability of Transformers under L
 
 <!-- **September**
 
-Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 
+Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track!
 
 
 New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/).  -->
@@ -63,36 +67,44 @@ New preprint on applications of generative modeling to operator learning! In [Pr
 
 I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate.  -->
 
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+
 ## Recent and upcoming events
 
 
 **June**
 
-Scientific Computing and Differential Equations (SciCADE 2026), June 29 - July 3, 2026. 
+Scientific Computing and Differential Equations (SciCADE 2026), June 29 - July 3, 2026.
 
-SIAM Conference on Optimization, June 2-5, 2026. 
+SIAM Conference on Optimization, June 2-5, 2026.
 
 **April**
 
-Data Science and Statistics Seminar, Department of Mathematics, University of Tennessee, Knoxville. April 9, 2026. 
+Data Science and Statistics Seminar, Department of Mathematics, University of Tennessee, Knoxville. April 9, 2026.
 
 **March**
 
-SIAM Conference on Uncertainty Quantification, March 22-25, 2026. 
+SIAM Conference on Uncertainty Quantification, March 22-25, 2026.
 
 [Computational and Applied Mathematics Seminar](https://math.asu.edu/node/10501), School of Mathematical and Statistical Sciences, Arizona State University, March 16, 2026.
 
-Level Set Collective Seminar, Department of Mathematics, UCLA, March 9, 2026. 
+Level Set Collective Seminar, Department of Mathematics, UCLA, March 9, 2026.
 
 <!-- **December**
 
-[Virtual Analysis and PDE Seminar](https://sites.google.com/view/vapseminar/home), December 11, 2025. 
+[Virtual Analysis and PDE Seminar](https://sites.google.com/view/vapseminar/home), December 11, 2025.
 
 **November**
 
-Colloquium, Department of Mathematics, Louisiana State University, November 20, 2025. 
+Colloquium, Department of Mathematics, Louisiana State University, November 20, 2025.
 
 [Special Colloquium](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/eventdetail/23163/133/a-mean-field-games-laboratory-for-generative-artificial-intelligence-from-foundations-to-applications-in-scientific-computing), Department of Mathematics, Rutgers University, November 18, 2025.  -->
+
+</div>
+
+</div>
 
 <!-- **July**
 
