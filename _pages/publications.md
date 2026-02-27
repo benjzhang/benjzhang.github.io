@@ -15,6 +15,10 @@ author_profile: true
 
 ## Preprints and submitted papers
 
+19. "Knothe-Rosenblatt maps via soft-constrained optimal transport," (with Ricardo Baptista, Franca Hoffman, and Minh Nguyen), [arXiv:2511.04579](https://arxiv.org/abs/2511.04579). 
+
+18. "Stability of transformers under layer normalization," (with Kelvin Kan, Xinjian Li, Tuhin Sahai, Stanley Osher, Krishna Kumar, and Markos Katsoulakis), [arXiv:2510.09904](https://arxiv.org/abs/2510.09904). 
+
 17. "Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations," (with Siting Liu, Stanley Osher, and Markos Katsoulakis), [arXiv:2509.05186](https://arxiv.org/abs/2509.05186).
 
 
@@ -27,19 +31,19 @@ author_profile: true
 
 13. "Combining Wasserstein-1 and Wasserstein-2 proximals: robust manifold learning via well-posed generative flows," (with Hyemin Gu, Markos Katsoulakis, and Luc Rey-Bellet), [arXiv:2407:11901](https://arxiv.org/abs/2407.11901). 
 
+12. "A mean-field games laboratory for generative modeling," (with Markos Katsoulakis), [arXiv:2304.13534](https://arxiv.org/abs/2304.13534).
 
-12. "Wasserstein proximal operators describe score-based generative models and resolve memorization," (with Siting Liu, Wuchen Li, Markos Katsoulakis, and Stanley Osher), [arXiv:2402.06162](https://arxiv.org/abs/2402.06162).
-
-11. "A mean-field games laboratory for generative modeling," (with Markos Katsoulakis), [arXiv:2304.13534](https://arxiv.org/abs/2304.13534).
-
-10. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
+11. "Computing the eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator," (with Tuhin Sahai and Youssef Marzouk) [arXiv:2110.09229](https://arxiv.org/abs/2110.09229). 
 
 <!-- * **B. Zhang**, T. Sahai, and Y. Marzouk. "Sampling via controlled stochastic dynamical systems." In preparation. -->
 
 
 ## Journal articles
 
-9. "Nonlinear denoising score matching for enhanced learning of structured distributions," (with Jeremiah Birrell, Markos Katsoulakis, Luc Rey-Bellet, and Wei Zhu), [arXiv:2405.15625](https://arxiv.org/abs/2405.15625). *Computer Methods in Applied Mechanics and Engineering*
+10. "Wasserstein proximal operators describe score-based generative models and resolve memorization," (with Siting Liu, Wuchen Li, Markos Katsoulakis, and Stanley Osher), [arXiv:2402.06162](https://arxiv.org/abs/2402.06162). To appear in *SIAM Journal on Mathematics of Data Science.*
+
+
+9. "Nonlinear denoising score matching for enhanced learning of structured distributions," (with Jeremiah Birrell, Markos Katsoulakis, Luc Rey-Bellet, and Wei Zhu), [arXiv:2405.15625](https://arxiv.org/abs/2405.15625). *Computer Methods in Applied Mechanics and Engineering.*
 
 
 8. "Transport map unadjusted Langevin algorithms: learning and discretizing perturbed samplers," (with Youssef Marzouk and Konstantinos Spiliopoulos), [arXiv:2302.07227](https://arxiv.org/abs/2302.07227). *Foundations of Data Science.* 

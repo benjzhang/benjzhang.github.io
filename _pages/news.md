@@ -48,6 +48,9 @@ I will be attending and presenting in the [IPAM Workshop on Sampling, Inference,
 
 
 
+**June**
+I am presenting a talk in the Advanced Concepts Office at NASA Marshall Space Flight Center. 
+
 
 **May**
 Three new preprints! 
