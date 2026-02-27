@@ -39,12 +39,24 @@ I am the co-organizer of the [Learning *Learning*](https://www.umass.edu/mathema
 <!-- **October**
 I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University.  -->
 
-**September**
+**February**
+
+Our paper [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162 has been accepted to the *SIAM Journal on Mathematics of Data Science*!
+
+**November**
+
+New preprint on Knothe-Rosenblatt maps (triangular maps) and optimal transport: In [Knothe-Rosenblatt maps via soft-constrained optimal transport](https://arxiv.org/abs/2511.04579), we show that the KR map can be obtained as a limit of maps solving a relaxed optimal transport problem with a soft optimal transport constraint. Our results provide theoretical jusification for variational methods that estimate KR maps by minimizing a divergence and provides new methodological ideas for new ways of constructing these maps. This is joint work with [Ricardo Baptista](https://www.ricardobaptista.com), [Franca Hoffman](https://www.cms.caltech.edu/people/franca-hoffmann), and [Minh Nguyen](https://minhngvh.github.io).
+
+**October**
+
+New preprint on transformer architectures: In [Stability of Transformers under Layer Normalization](https://arxiv.org/abs/2510.09904), we study how layer normalization placement affects the stability of transformers, analyzing both the growth of hidden states and the backpropagation of gradients. Our theory explains when different placements lead to stable training and guides the scaling of residual connections for improved performance. This is joint work with [Kelvin Kan](https://www.math.emory.edu/~kkan5/), [Xingjian Li](https://oden.utexas.edu/people/directory/Xingjian-Li/), [Tuhin Sahai](https://tuhinsahai.github.io), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/).
+
+<!-- **September**
 
 Happy to announce that our paper [Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency.](https://arxiv.org/abs/2505.13499) has been accepted to NeurIPS 2024 through the Main Track! 
 
 
-New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/). 
+New preprint on applications of generative modeling to operator learning! In [Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations](https://arxiv.org/abs/2509.05186), we place operator learning within the framework of probabilistic machine learning through a random differential equations formalism. We show that in-context operator learning (ICON) performs Bayesian inference implicitly and demonstrate how generative modeling provides uncertainty quantification for predictions made by ICON. This is joint work with [Siting Liu](https://sites.google.com/view/sitingl), [Stan Osher](https://www.math.ucla.edu/~sjo/), and [Markos Katsoulakis](https://people.math.umass.edu/~markos/).  -->
 
 
 <!-- **August**
@@ -52,17 +64,27 @@ New preprint on applications of generative modeling to operator learning! In [Pr
 I have moved to the School of Data Science and Society at the University of North Carolina at Chapel Hill as a postdoctoral research associate.  -->
 
 ## Recent and upcoming events
+
+
+**June**
+
+Scientific Computing and Differential Equations (SciCADE 2026), June 29 - July 3, 2026. 
+
+SIAM Conference on Optimization, June 2-5, 2026. 
+
 **April**
 
 Data Science and Statistics Seminar, Department of Mathematics, University of Tennessee, Knoxville. April 9, 2026. 
 
 **March**
 
-SIAM conference on Uncertainty Quantification 2026
+SIAM Conference on Uncertainty Quantification, March 22-25, 2026. 
 
-[Computational and Applied Mathematics Seminar](https://math.asu.edu/node/10501), School of Mathematical and Statistical Sciences, Arizona State University, March 16, 2026
+[Computational and Applied Mathematics Seminar](https://math.asu.edu/node/10501), School of Mathematical and Statistical Sciences, Arizona State University, March 16, 2026.
 
-**December**
+Level Set Collective Seminar, Department of Mathematics, UCLA, March 9, 2026. 
+
+<!-- **December**
 
 [Virtual Analysis and PDE Seminar](https://sites.google.com/view/vapseminar/home), December 11, 2025. 
 
@@ -70,7 +92,7 @@ SIAM conference on Uncertainty Quantification 2026
 
 Colloquium, Department of Mathematics, Louisiana State University, November 20, 2025. 
 
-[Special Colloquium](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/eventdetail/23163/133/a-mean-field-games-laboratory-for-generative-artificial-intelligence-from-foundations-to-applications-in-scientific-computing), Department of Mathematics, Rutgers University, November 18, 2025. 
+[Special Colloquium](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/eventdetail/23163/133/a-mean-field-games-laboratory-for-generative-artificial-intelligence-from-foundations-to-applications-in-scientific-computing), Department of Mathematics, Rutgers University, November 18, 2025.  -->
 
 <!-- **July**
 

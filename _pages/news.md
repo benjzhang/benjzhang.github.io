@@ -5,13 +5,24 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2026
+
+**February**
+
+Our paper [Wasserstein proximal operators describe score-based generative models and resolve memorization](https://arxiv.org/abs/2402.06162 has been accepted to the *SIAM Journal on Mathematics of Data Science*!
+
 ## 2025
+
+**December**
+
+[Virtual Analysis and PDE Seminar](https://sites.google.com/view/vapseminar/home), December 11, 2025. 
 
 **November**
 I gave a colloquium talk in the Department of Mathematics at the Louisiana State University. 
 
-I spoke in the [Applied and Computational Mathematics Seminar]() in the Department of Mathematics at Rutgers University. 
+I spoke in the [Applied and Computational Mathematics Seminar](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/eventdetail/23163/133/a-mean-field-games-laboratory-for-generative-artificial-intelligence-from-foundations-to-applications-in-scientific-computing) in the Department of Mathematics at Rutgers University. 
 
+New preprint on Knothe-Rosenblatt maps (triangular maps) and optimal transport: In [Knothe-Rosenblatt maps via soft-constrained optimal transport](https://arxiv.org/abs/2511.04579), we show that the KR map can be obtained as a limit of maps solving a relaxed optimal transport problem with a soft optimal transport constraint. Our results provide theoretical jusification for variational methods that estimate KR maps by minimizing a divergence and provides new methodological ideas for new ways of constructing these maps. This is joint work with [Ricardo Baptista](https://www.ricardobaptista.com), [Franca Hoffman](https://www.cms.caltech.edu/people/franca-hoffmann), and [Minh Nguyen](https://minhngvh.github.io).
 
 **October**
 I will be speaking in the [Stochastic Analysis Seminar](https://orfe.princeton.edu/events/2025/benjamin-zhang-university-north-carolina-chapel-hill) in the Department of Operations Research and Financial Engineering at Princeton University. 
