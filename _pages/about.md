@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [School of Data Science and Society](https://datascience.unc.edu) at the [University of North Carolina at Chapel Hill](https://www.unc.edu) working with [Amarjit Budhiraja](https://abudhiraja.web.unc.edu). My research interests lie broadly in the intersections of **mathematics of generative machine learning,** **mathematical control theory,** and **Bayesian computation**.  
+I am an Assistant Professor at [Rutgers University](https://newbrunswick.rutgers.edu/) in the [Department of Mathematics](https://math.rutgers.edu/). My research interests lie broadly at the intersection of **generative machine learning,** **mathematical control theory,** and **Bayesian computation**.
 
-I will be joining the Department of Mathematics at Rutgers University as an Assistant Professor in Fall 2026.
 
-I was previously a postdoctoral research associate between the [Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu) and the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at [UMass Amherst](https://www.umass.edu) with [Paul Dupuis](https://appliedmath.brown.edu/people/paul-dupuis), [Markos Katsoulakis](https://people.math.umass.edu/~markos/), [Luc Rey-Bellet](https://people.math.umass.edu/~lr7q/).
+Prior to joining Rutgers, I held postdoctoral appointments in the [School of Data Science and Society](https://datascience.unc.edu) at UNC Chapel Hill, the [Division of Applied Mathematics](https://appliedmath.brown.edu) at Brown University, and the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at UMass Amherst. 
+
+
 
 <!-- My research interests lie broadly in the **mathematics of machine learning** for analyzing and developing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. Conversely, I also develop theoretically well-grounded methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative machine learning.  -->
 
-I earned my PhD in Computational Science and Engineering from MIT in 2022. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Master's degree in Aeronautics & Astronautics at MIT in 2017, and my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley in 2015. I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems.
+I earned my PhD in Computational Science and Engineering and SM in Aeronautics & Astronautics at MIT. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley. 
+
+<!-- I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. -->
 
 [![Tree Website](/images/tree_website.png)](/research/) 
 
