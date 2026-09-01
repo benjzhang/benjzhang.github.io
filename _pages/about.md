@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at [Rutgers University](https://newbrunswick.rutgers.edu/) in the [Department of Mathematics](https://math.rutgers.edu/). I am an applied and computational mathematician. My research interests lie broadly at the intersection of **generative machine learning,** **mathematical control theory,** and **Bayesian computation**.
+I am an Assistant Professor in the [Department of Mathematics](https://math.rutgers.edu/) at [Rutgers University](https://newbrunswick.rutgers.edu/). I am an applied and computational mathematician. My research interests lie broadly at the intersection of **generative machine learning,** **mathematical control theory,** and **Bayesian computation**.
 
 
 Prior to joining Rutgers, I held postdoctoral appointments in the [School of Data Science and Society](https://datascience.unc.edu) at UNC Chapel Hill, the [Division of Applied Mathematics](https://appliedmath.brown.edu) at Brown University, and the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at UMass Amherst. 
