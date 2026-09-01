@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at [Rutgers University](https://newbrunswick.rutgers.edu/) in the [Department of Mathematics](https://math.rutgers.edu/). My research interests lie broadly at the intersection of **generative machine learning,** **mathematical control theory,** and **Bayesian computation**.
+I am an Assistant Professor at [Rutgers University](https://newbrunswick.rutgers.edu/) in the [Department of Mathematics](https://math.rutgers.edu/). I am an applied and computational mathematician. My research interests lie broadly at the intersection of **generative machine learning,** **mathematical control theory,** and **Bayesian computation**.
 
 
 Prior to joining Rutgers, I held postdoctoral appointments in the [School of Data Science and Society](https://datascience.unc.edu) at UNC Chapel Hill, the [Division of Applied Mathematics](https://appliedmath.brown.edu) at Brown University, and the [Department of Mathematics and Statistics](https://www.umass.edu/mathematics-statistics/) at UMass Amherst. 
@@ -17,7 +17,7 @@ Prior to joining Rutgers, I held postdoctoral appointments in the [School of Dat
 
 <!-- My research interests lie broadly in the **mathematics of machine learning** for analyzing and developing novel **generative modeling** algorithms from the perspectives of **mathematical control theory** and **mean-field games**. Conversely, I also develop theoretically well-grounded methods in **rare event simulation for dynamical systems** and **sampling methods for Bayesian computation** using tools from generative machine learning.  -->
 
-I earned my PhD in Computational Science and Engineering and SM in Aeronautics & Astronautics at MIT. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I earned my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley. 
+I earned my PhD in Computational Science and Engineering and SM in Aeronautics & Astronautics at MIT. My advisor was [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/) who heads the [Uncertainty Quantification group](https://uqgroup.mit.edu). I received my Bachelor's degrees in Engineering Physics and Applied Mathematics at UC Berkeley. 
 
 <!-- I was a [MIT School of Engineering 2019-2020 Mathworks Fellow](https://engineering.mit.edu/students/graduate-student-fellowships/mathworks-fellows/). I spent the summer of 2017 as a research intern at United Technologies Research Center (now Raytheon), where I worked with [Tuhin Sahai](https://tuhinsahai.github.io/) on novel queuing systems. -->
 
